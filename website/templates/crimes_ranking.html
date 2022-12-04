@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}Crimes Ranking{% endblock %}
+{% block content%}
+<form method="POST">
+        <br />
+        <h3 align="center">Ranking of States: Hate Crimes Rates by Type of Bias</h3>
+	<h5 align="center">from highest to lowest rate per capita (*)</h5>
+	<br />
+	<div class="form-group">
+                <label for="bias">Type of Bias </label>       	
+		<select name="bias" id="bias">
+			<option value="all">All</option>
+			<option value="disability">Disability</option>
+			<option value="ethnicity">Ethnicity</option>
+			<option value="gender">Gender</option>
+                        <option value="gender-id">Gender Identity</option>
+    			<option value="race">Race</option>
+  			<option value="religion">Religion</option>
+  			<option value="sexual-orientation">Sexual Orientation</option>
+		</select>
+	</div>
+        <button type="submit" class="btn btn-primary">Show States</button>
+	<br />
+	<br />
+	<div>
+        <table class="table">
+        	<tr>
+			{% for header in headings %}
+			<th>{{ header }}</th>
+			{% endfor %}
+		</tr>
+		{% for row in data %}
+		<tr>
+			{% for cell in row %}
+			<td>{{ cell }}</td>
+                        {% endfor %}
+		</tr>
+		{% endfor %}
+        </table>
+        </div>
+	<p> <font size="2">(*)<strong> Per Capita:</strong> total number of crimes per 100,000 people</font></p>
+	<br />
+        <p align="center"> <font size="1">Paul Cummins | Conor Welch | Marina Sánchez</font></p>
+</form>
+
+{% endblock %}

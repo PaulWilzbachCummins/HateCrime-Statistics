@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content%}
+<form method="POST">
+        <br />
+        <h2 align="center">US Hate Crimes in 2013</h2>
+	<br />
+	<center>
+	  <img src="/static/images/Hate.jpg" width=600px height=auto>
+	</center>
+	<hr>
+	<p align="center">This app is based on a compilation of hate crimes in the United States reported to the FBI during the year 2013.</p>
+	<p align="center">Information on the different types of reported hate crimes can be found in the Crime Ranking tab, where states are ordered from the highest crimes reported per capita to lowest.
+	  On the Political Affliation tab we subset each state by their political affliation according to data collected from the 2012 political election and compute summary statistics of crimes reported.</p>
+	<hr>
+	<h4>Resources</h4>
+	<br />
+	<a href="https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013">2013 Hate Crime Data</a>
+	<br />
+	<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX">Harvard Presidential Election Data</a>
+	<br />
+	<a href="https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html">Census Population Data</a>
+        </form>
+
+{% endblock %}

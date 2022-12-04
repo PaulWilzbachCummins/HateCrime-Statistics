@@ -1,0 +1,1827 @@
+State,Agencytype,Agencyname,Race,Religion,Sexualorientation,Ethnicity,Disability,Gender,GenderIdentity,1stquarter,2ndquarter,3rdquarter,4thquarter,Population
+Vermont,StatePoliceAgencies,"StatePolice,St.Albans",0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Maryland,Cities,Aberdeen,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,15039.0
+South Dakota,Cities,Aberdeen,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,26999.0
+Washington,Cities,Aberdeen,3,0,0,1,0,0.0,0.0,1.0,1.0,0.0,2.0,16408.0
+New Jersey,Cities,AberdeenTownship,8,1,2,0,0,0.0,0.0,1.0,6.0,1.0,3.0,18150.0
+Massachusetts,Cities,Acton,3,0,0,0,0,0.0,0.0,0.0,2.0,0.0,1.0,22871.0
+Idaho,MetropolitanCounties,Ada,0,1,0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Colorado,MetropolitanCounties,Adams,1,0,1,1,0,0.0,0.0,1.0,0.0,2.0,0.0,
+California,Cities,Adelanto,1,0,0,1,0,0.0,0.0,1.0,0.0,1.0,0.0,31165.0
+Michigan,Cities,Adrian,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,,20759.0
+California,Cities,AgouraHills,2,0,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,20762.0
+Ohio,Cities,Akron,5,0,2,1,0,0.0,0.0,3.0,3.0,2.0,0.0,198405.0
+Florida,MetropolitanCounties,Alachua,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,
+California,Cities,Alameda,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,76206.0
+New York,Cities,Albany,1,2,0,0,0,0.0,0.0,0.0,2.0,1.0,0.0,97956.0
+North Carolina,Cities,Albemarle,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,15946.0
+Virginia,MetropolitanCounties,AlbemarleCountyPoliceDepartment,7,2,0,1,0,0.0,0.0,1.0,5.0,2.0,2.0,
+Michigan,Cities,Albion,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,8524.0
+New Mexico,Cities,Albuquerque,5,1,4,0,0,0.0,0.0,2.0,1.0,6.0,1.0,558165.0
+Wisconsin,Cities,Algoma,1,1,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,3143.0
+California,Cities,Alhambra,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,84710.0
+New Jersey,Cities,Allenhurst,0,2,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,493.0
+Ohio,Cities,Alliance,0,0,0,1,0,0.0,0.0,0.0,,1.0,,22144.0
+Michigan,Cities,Alpena,1,1,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,10299.0
+California,NonmetropolitanCounties,Alpine,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Iowa,Cities,Altoona,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,15683.0
+Oklahoma,Cities,Altus,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,19634.0
+California,NonmetropolitanCounties,Amador,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Texas,UniversitiesandColleges,AmarilloCollege,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,11530.0
+Iowa,Cities,Ames,1,0,0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,61193.0
+Massachusetts,Cities,Amesbury,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,16655.0
+Massachusetts,Cities,Amherst,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,39127.0
+Virginia,MetropolitanCounties,Amherst,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New York,Cities,AmherstTown,3,0,0,0,0,0.0,0.0,0.0,0.0,1.0,2.0,118296.0
+Alaska,Cities,Anchorage,8,0,0,0,0,0.0,0.0,2.0,3.0,3.0,0.0,299455.0
+South Carolina,Cities,Anderson,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,26812.0
+Kansas,Cities,Andover,0,1,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,12188.0
+Michigan,Cities,AnnArbor,1,1,1,0,0,0.0,0.0,0.0,3.0,0.0,0.0,116799.0
+Maryland,Cities,Annapolis,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,38649.0
+California,Cities,Antioch,2,0,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,106447.0
+Arizona,Cities,ApacheJunction,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,,36626.0
+Wisconsin,Cities,Appleton,0,0,2,0,0,0.0,0.0,0.0,2.0,0.0,0.0,73141.0
+Virginia,MetropolitanCounties,Appomattox,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Colorado,MetropolitanCounties,Arapahoe,4,2,2,0,0,0.0,0.0,6.0,0.0,2.0,0.0,
+California,Cities,Arcadia,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,57855.0
+Kansas,Cities,ArkansasCity,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,12322.0
+Virginia,MetropolitanCounties,ArlingtonCountyPoliceDepartment,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,
+Colorado,Cities,Arvada,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,110792.0
+New Jersey,Cities,AsburyPark,1,0,3,0,0,0.0,0.0,1.0,2.0,1.0,0.0,15779.0
+Louisiana,MetropolitanCounties,Ascension,3,1,0,0,0,0.0,0.0,0.0,3.0,1.0,0.0,
+North Carolina,Cities,Asheboro,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,25665.0
+North Carolina,Cities,Asheville,5,2,2,1,0,0.0,0.0,3.0,0.0,3.0,4.0,86445.0
+Kentucky,Cities,Ashland,3,0,0,0,0,0.0,0.0,1.0,0.0,2.0,0.0,21432.0
+New Hampshire,Cities,Ashland,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,2056.0
+Ohio,Cities,Ashland,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,20306.0
+Ohio,NonmetropolitanCounties,Ashland,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Oregon,Cities,Ashland,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,20455.0
+Tennessee,Cities,AshlandCity,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,4637.0
+California,Cities,Atascadero,1,0,0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,28938.0
+Ohio,Cities,Athens,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,23721.0
+Ohio,NonmetropolitanCounties,Athens,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Tennessee,Cities,Athens,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,13504.0
+Georgia,Cities,Atlanta,5,1,12,2,1,0.0,0.0,8.0,11.0,2.0,0.0,451020.0
+Tennessee,Cities,Atoka,0,0,0,0,1,0.0,0.0,0.0,0.0,1.0,0.0,8821.0
+Massachusetts,Cities,Attleboro,1,0,0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,44034.0
+California,Cities,Atwater,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,28906.0
+California,Cities,Auburn,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,13779.0
+Maine,Cities,Auburn,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,22948.0
+Washington,Cities,Auburn,5,1,0,3,0,0.0,1.0,1.0,1.0,4.0,4.0,74565.0
+Ohio,NonmetropolitanCounties,Auglaize,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Colorado,Cities,Aurora,4,0,1,1,0,0.0,0.0,1.0,3.0,0.0,2.0,343484.0
+Illinois,Cities,Aurora,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,200551.0
+Texas,Cities,Austin,0,0,1,3,0,0.0,0.0,2.0,1.0,1.0,0.0,859180.0
+Ohio,Cities,Austintown,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,36192.0
+Arizona,Cities,Avondale,4,0,0,1,0,0.0,0.0,1.0,1.0,3.0,0.0,78905.0
+California,Cities,Azusa,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,47754.0
+California,Cities,Bakersfield,2,1,0,0,0,0.0,0.0,0.0,0.0,2.0,1.0,361859.0
+California,Cities,BaldwinPark,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,76745.0
+Indiana,UniversitiesandColleges,BallStateUniversity,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,21053.0
+Maryland,Cities,Baltimore,0,1,0,1,0,0.0,0.0,1.0,0.0,0.0,1.0,622671.0
+Maryland,MetropolitanCounties,BaltimoreCountyPoliceDepartment,3,2,0,0,0,0.0,0.0,1.0,0.0,2.0,2.0,
+Michigan,Cities,Bangor,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,1.0,1857.0
+California,Cities,Banning,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,30503.0
+Ohio,Cities,Barberton,3,0,1,0,0,0.0,0.0,0.0,2.0,1.0,1.0,26245.0
+West Virginia,Cities,Barboursville,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,4099.0
+Illinois,Cities,Bartlett,0,1,0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,41733.0
+New York,Cities,Batavia,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,15374.0
+Michigan,Cities,BathTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,11761.0
+Ohio,Cities,"BathTownship,SummitCounty",0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9724.0
+Michigan,Cities,BattleCreek,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,61032.0
+Texas,Cities,Beaumont,3,0,0,0,0,0.0,0.0,2.0,1.0,0.0,0.0,118177.0
+Oregon,Cities,Beaverton,0,0,1,0,0,0.0,0.0,,,1.0,,93551.0
+West Virginia,Cities,Beckley,3,0,1,0,0,0.0,0.0,0.0,3.0,1.0,0.0,17593.0
+Massachusetts,Cities,Bedford,1,2,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,13947.0
+New Hampshire,Cities,Bedford,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,21645.0
+Virginia,Cities,Bedford,1,0,1,0,0,0.0,0.0,0.0,0.0,0.0,2.0,5894.0
+New Jersey,Cities,BedminsterTownship,1,1,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,8213.0
+Maryland,Cities,BelAir,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,10314.0
+New Mexico,Cities,Belen,0,0,0,1,0,0.0,0.0,,,,1.0,7247.0
+Maine,Cities,Belfast,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,6654.0
+Texas,Cities,Bellaire,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,17617.0
+Ohio,Cities,Bellefontaine,1,0,0,1,0,0.0,0.0,0.0,1.0,1.0,0.0,13147.0
+Kansas,Cities,Belleville,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,1928.0
+New Jersey,Cities,Belleville,0,0,2,0,0,0.0,0.0,0.0,0.0,1.0,1.0,36229.0
+Kentucky,Cities,Bellevue,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,5918.0
+Washington,Cities,Bellevue,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,127678.0
+Washington,Cities,Bellingham,4,0,4,2,0,0.0,0.0,2.0,5.0,3.0,0.0,82645.0
+Texas,Cities,Bellmead,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,9950.0
+Massachusetts,Cities,Belmont,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,25421.0
+South Carolina,Cities,Belton,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,4222.0
+Minnesota,Cities,Bemidji,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,13805.0
+Texas,Cities,Benbrook,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,22157.0
+Oregon,Cities,Bend,0,2,0,1,0,0.0,0.0,2.0,0.0,1.0,0.0,79926.0
+Vermont,Cities,Bennington,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,15492.0
+Washington,MetropolitanCounties,Benton,0,0,0,0,1,0.0,0.0,1.0,0.0,0.0,0.0,
+Michigan,Cities,BentonHarbor,3,0,0,0,0,0.0,0.0,1.0,0.0,2.0,0.0,10039.0
+Michigan,Cities,BentonTownship,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,14578.0
+Arkansas,Cities,Bentonville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,39132.0
+Kentucky,Cities,Berea,0,1,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,14331.0
+California,Cities,Berkeley,7,1,4,1,0,0.0,0.0,6.0,2.0,4.0,1.0,116217.0
+South Carolina,MetropolitanCounties,Berkeley,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,
+Arkansas,Cities,Berryville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5417.0
+Illinois,Cities,Berwyn,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,56838.0
+Connecticut,Cities,Bethel,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,19338.0
+North Dakota,Cities,Beulah,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,3149.0
+Massachusetts,Cities,Beverly,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,40592.0
+California,Cities,BeverlyHills,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,34780.0
+Massachusetts,Cities,Billerica,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,41926.0
+Montana,Cities,Billings,5,1,1,0,0,0.0,0.0,1.0,2.0,1.0,3.0,107802.0
+Mississippi,Cities,Biloxi,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,44744.0
+Michigan,Cities,Birmingham,1,1,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,20544.0
+North Dakota,Cities,Bismarck,0,0,1,5,0,0.0,0.0,3.0,0.0,2.0,1.0,65850.0
+Oklahoma,Cities,Bixby,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,23122.0
+Michigan,Cities,BlackmanTownship,3,0,0,0,0,0.0,0.0,0.0,1.0,0.0,2.0,38115.0
+Minnesota,Cities,Blaine,4,0,0,0,0,0.0,0.0,1.0,2.0,1.0,0.0,60093.0
+Oklahoma,Cities,Blanchard,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8016.0
+Tennessee,NonmetropolitanCounties,Bledsoe,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Michigan,Cities,BloomfieldTownship,1,1,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,41791.0
+Indiana,Cities,Bloomington,8,0,2,0,0,0.0,0.0,1.0,5.0,3.0,1.0,82415.0
+Ohio,Cities,BlueAsh,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,12105.0
+Ohio,Cities,Boardman,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,40277.0
+Idaho,Cities,Boise,8,1,4,0,0,0.0,0.0,2.0,0.0,7.0,4.0,214330.0
+Massachusetts,Cities,Bolton,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5060.0
+Kentucky,MetropolitanCounties,Boone,3,0,0,1,0,0.0,0.0,1.0,2.0,0.0,1.0,
+Massachusetts,Cities,Boston,73,21,53,15,0,0.0,3.0,39.0,56.0,40.0,30.0,643799.0
+Massachusetts,UniversitiesandColleges,BostonCollege,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,14605.0
+Massachusetts,UniversitiesandColleges,BostonUniversity,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,32603.0
+Utah,Cities,Bountiful,4,0,0,1,0,0.0,0.0,0.0,1.0,2.0,2.0,42976.0
+Kentucky,Cities,BowlingGreen,4,0,2,2,0,0.0,0.0,1.0,2.0,4.0,1.0,61130.0
+Ohio,UniversitiesandColleges,BowlingGreenStateUniversity,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,17286.0
+Massachusetts,Cities,Braintree,3,0,0,0,0,0.0,0.0,0.0,2.0,1.0,0.0,36496.0
+Missouri,Cities,Branson,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,10918.0
+California,Cities,Brentwood3,4,0,0,0,0,0.0,0.0,0.0,1.0,2.0,1.0,54301.0
+Florida,MetropolitanCounties,Brevard,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New Jersey,Cities,BrickTownship,2,1,0,1,0,0.0,0.0,1.0,2.0,1.0,0.0,75371.0
+Connecticut,Cities,Bridgeport,5,1,2,3,0,0.0,0.0,2.0,4.0,3.0,2.0,147076.0
+Massachusetts,UniversitiesandColleges,BridgewaterStateUniversity,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,11417.0
+Utah,Cities,BrighamCity,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,18217.0
+New York,Cities,BrightonTown,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,36689.0
+Tennessee,Cities,Bristol,1,0,2,1,0,0.0,0.0,0.0,0.0,0.0,5.0,26660.0
+Virginia,Cities,Bristol,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,17641.0
+Oklahoma,Cities,BrokenArrow,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,102956.0
+West Virginia,MetropolitanCounties,Brooke,4,0,0,0,0,0.0,0.0,1.0,1.0,2.0,0.0,
+Massachusetts,Cities,Brookline,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,59382.0
+Minnesota,Cities,BrooklynPark,3,0,0,0,0,0.0,0.0,1.0,1.0,1.0,0.0,78353.0
+New York,MetropolitanCounties,Broome,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,Cities,BrownstownTownship,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,30388.0
+Texas,Cities,Brownwood,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,18873.0
+Michigan,Cities,Buchanan,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,4419.0
+West Virginia,Cities,Buckhannon,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,5649.0
+Ohio,Cities,Bucyrus,0,0,0,1,0,0.0,0.0,,0.0,0.0,1.0,12007.0
+California,Cities,BuenaPark3,0,0,1,1,0,0.0,0.0,0.0,1.0,0.0,1.0,82632.0
+Michigan,Cities,BuenaVistaTownship,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,8500.0
+New York,Cities,Buffalo,11,1,2,2,0,1.0,0.0,6.0,3.0,4.0,4.0,258789.0
+Kentucky,MetropolitanCounties,Bullitt,3,0,1,0,0,0.0,0.0,0.0,2.0,1.0,1.0,
+North Carolina,MetropolitanCounties,Buncombe,2,0,0,1,0,0.0,0.0,0.0,0.0,2.0,1.0,
+California,Cities,Burbank,1,1,2,1,0,0.0,0.0,1.0,2.0,2.0,0.0,104727.0
+Washington,Cities,Burien,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,49822.0
+Kentucky,Cities,Burkesville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1526.0
+New Jersey,Cities,Burlington,0,0,0,0,1,0.0,0.0,1.0,0.0,0.0,0.0,9865.0
+North Carolina,Cities,Burlington,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,51401.0
+Vermont,Cities,Burlington,2,0,1,0,0,0.0,0.0,0.0,1.0,1.0,1.0,42235.0
+Wisconsin,Cities,Burlington,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,10502.0
+New Jersey,Cities,BurlingtonTownship,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,22750.0
+Wisconsin,NonmetropolitanCounties,Burnett,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Tennessee,Cities,Burns,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1469.0
+Michigan,Cities,Burton,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,29263.0
+Ohio,MetropolitanCounties,Butler,3,0,3,0,2,0.0,0.0,3.0,2.0,1.0,2.0,
+Ohio,Cities,ButlerTownship,0,0,0,0,1,0.0,0.0,1.0,0.0,0.0,0.0,7864.0
+North Carolina,MetropolitanCounties,Cabarrus,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Arkansas,Cities,Cabot,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,24695.0
+Kentucky,Cities,Cadiz,0,0,2,0,0,0.0,0.0,0.0,1.0,1.0,0.0,2624.0
+California,Cities,Calabasas,0,2,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,24114.0
+California,NonmetropolitanCounties,Calaveras,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Louisiana,MetropolitanCounties,Calcasieu,0,4,3,0,0,0.0,0.0,4.0,1.0,1.0,1.0,
+Idaho,Cities,Caldwell,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,48069.0
+New Jersey,Cities,Caldwell,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7876.0
+California,UniversitiesandColleges,CaliforniaStatePolytechnicUniversity:Pomona,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,22156.0
+California,UniversitiesandColleges,CaliforniaStatePolytechnicUniversity:SanLuisObispo,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,18679.0
+California,UniversitiesandColleges,CaliforniaStateUniversity:DominguezHills,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,13933.0
+California,UniversitiesandColleges,CaliforniaStateUniversity:LongBeach,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,36279.0
+California,UniversitiesandColleges,CaliforniaStateUniversity:SanBernardino,3,0,0,0,0,0.0,0.0,2.0,0.0,1.0,0.0,18234.0
+California,UniversitiesandColleges,CaliforniaStateUniversity:SanJose,2,0,1,1,0,0.0,0.0,1.0,1.0,1.0,1.0,30448.0
+California,UniversitiesandColleges,CaliforniaStateUniversity:SanMarcos,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,10610.0
+California,UniversitiesandColleges,CaliforniaStateUniversity:Stanislaus,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,8882.0
+Kentucky,NonmetropolitanCounties,Calloway,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+California,Cities,Camarillo,2,1,0,0,0,0.0,0.0,1.0,1.0,1.0,0.0,66173.0
+Massachusetts,Cities,Cambridge,4,3,3,3,0,0.0,0.0,6.0,2.0,3.0,2.0,107282.0
+New Jersey,MetropolitanCounties,CamdenCountyPoliceDepartment,6,0,2,0,0,0.0,0.0,0.0,4.0,4.0,0.0,
+California,Cities,Campbell,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,40549.0
+New York,Cities,Canandaigua,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,10470.0
+Connecticut,Cities,Canton,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,10369.0
+Michigan,Cities,CantonTownship,1,1,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,88958.0
+Maine,Cities,CapeElizabeth,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,9104.0
+Ohio,UniversitiesandColleges,CapitalUniversity,2,0,1,0,0,0.0,0.0,0.0,0.0,0.0,3.0,3584.0
+Utah,NonmetropolitanCounties,Carbon,3,0,0,0,0,0.0,0.0,1.0,0.0,2.0,0.0,
+Nevada,Cities,Carlin,1,0,0,0,0,0.0,0.0,,,,1.0,2457.0
+Kentucky,Cities,Carlisle,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,1956.0
+California,Cities,Carlsbad,1,1,0,1,0,0.0,0.0,0.0,0.0,3.0,0.0,110505.0
+Illinois,Cities,CarolStream,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,40376.0
+North Carolina,Cities,Carrboro,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,20709.0
+North Dakota,Cities,Carrington,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2108.0
+Maryland,MetropolitanCounties,Carroll,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+Missouri,NonmetropolitanCounties,Carroll,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Virginia,NonmetropolitanCounties,Carroll,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Kentucky,Cities,Carrollton,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,3966.0
+California,Cities,Carson,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,93415.0
+Texas,Cities,Carthage,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,6918.0
+Montana,MetropolitanCounties,Cascade,1,0,0,1,0,0.0,0.0,0.0,0.0,2.0,0.0,
+North Dakota,MetropolitanCounties,Cass,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Idaho,NonmetropolitanCounties,Cassia,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Colorado,Cities,CastleRock,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,2.0,52309.0
+Vermont,Cities,Castleton,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,4649.0
+North Carolina,MetropolitanCounties,Catawba,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Ohio,Cities,Celina,1,0,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,10392.0
+Colorado,Cities,Centennial,3,2,1,0,0,0.0,0.0,2.0,2.0,1.0,1.0,104771.0
+Utah,Cities,Centerville,1,1,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,16488.0
+Connecticut,UniversitiesandColleges,CentralConnecticutStateUniversity,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,12091.0
+Rhode Island,Cities,CentralFalls,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,19404.0
+California,Cities,Cerritos,3,0,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,49816.0
+Illinois,Cities,Champaign,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,82966.0
+North Carolina,Cities,ChapelHill,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,58744.0
+South Carolina,Cities,Chapin,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1506.0
+Maryland,MetropolitanCounties,Charles,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+South Carolina,Cities,Charleston,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,127206.0
+West Virginia,Cities,Charleston,3,3,1,0,0,0.0,0.0,1.0,0.0,2.0,4.0,50919.0
+Florida,MetropolitanCounties,Charlotte,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,Cities,Charlotte,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,9046.0
+North Carolina,Cities,Charlotte-Mecklenburg,8,4,6,3,0,0.0,0.0,10.0,4.0,2.0,5.0,837638.0
+Virginia,Cities,Charlottesville,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,44187.0
+Minnesota,Cities,Chaska,1,0,0,0,0,0.0,0.0,,1.0,0.0,0.0,24158.0
+Tennessee,Cities,Chattanooga,2,1,0,0,0,0.0,0.0,0.0,0.0,2.0,1.0,172286.0
+Washington,MetropolitanCounties,Chelan,0,2,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,
+Massachusetts,Cities,Chelsea,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,37454.0
+Kansas,Cities,Cheney,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2127.0
+Washington,Cities,Cheney,3,0,0,0,0,0.0,0.0,1.0,1.0,0.0,1.0,11117.0
+Virginia,Cities,Chesapeake,4,2,0,0,0,0.0,0.0,2.0,0.0,2.0,2.0,230577.0
+Illinois,Cities,Chester,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,8448.0
+South Carolina,NonmetropolitanCounties,Chesterfield,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Virginia,MetropolitanCounties,ChesterfieldCountyPoliceDepartment,1,1,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,
+Michigan,Cities,ChesterfieldTownship,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,43784.0
+Colorado,NonmetropolitanCounties,Cheyenne,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Illinois,Cities,Chicago,22,2,18,3,0,0.0,0.0,11.0,10.0,15.0,9.0,2720554.0
+California,Cities,Chico,1,3,0,0,0,0.0,0.0,1.0,2.0,0.0,1.0,88226.0
+California,Cities,Chino,2,2,2,3,0,0.0,0.0,2.0,2.0,3.0,2.0,80704.0
+Michigan,Cities,ChocolayTownship,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,6029.0
+Oklahoma,Cities,Choctaw,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,11768.0
+Kentucky,MetropolitanCounties,Christian,1,0,0,0,1,0.0,0.0,0.0,1.0,1.0,0.0,
+Tennessee,UniversitiesandColleges,ChristianBrothersUniversity,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1603.0
+Virginia,Cities,Christiansburg,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,21581.0
+Virginia,UniversitiesandColleges,ChristopherNewportUniversity,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5186.0
+Idaho,Cities,Chubbuck,0,3,0,0,0,0.0,0.0,0.0,0.0,0.0,3.0,14224.0
+California,Cities,ChulaVista,3,0,1,0,0,0.0,0.0,0.0,3.0,0.0,1.0,255073.0
+Ohio,Cities,Cincinnati,9,0,1,5,1,0.0,0.0,4.0,0.0,2.0,10.0,296491.0
+New Jersey,Cities,CinnaminsonTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,16686.0
+Ohio,Cities,Circleville,1,0,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,13491.0
+California,Cities,CitrusHeights,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,85337.0
+Washington,NonmetropolitanCounties,Clallam,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+Michigan,Cities,Clare,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,3095.0
+California,Cities,Claremont,1,1,1,0,0,0.0,0.0,2.0,0.0,0.0,1.0,35623.0
+Washington,MetropolitanCounties,Clark,3,0,1,0,0,0.0,0.0,1.0,1.0,1.0,1.0,
+New Jersey,Cities,ClarkTownship,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,15021.0
+Virginia,MetropolitanCounties,Clarke,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Washington,Cities,Clarkston,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,7295.0
+New York,Cities,ClarkstownTown,1,2,0,0,0,0.0,0.0,2.0,1.0,0.0,0.0,80705.0
+Tennessee,Cities,Clarksville,0,0,5,6,0,0.0,0.0,1.0,2.0,0.0,8.0,145599.0
+Florida,MetropolitanCounties,Clay,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Kentucky,NonmetropolitanCounties,Clay,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Missouri,Cities,Clayton,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,15901.0
+Ohio,Cities,ClearcreekTownship,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,14642.0
+California,Cities,Clearlake,1,0,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,14951.0
+Ohio,MetropolitanCounties,Clermont,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ohio,Cities,Cleveland,1,0,5,1,0,0.0,0.0,1.0,0.0,4.0,2.0,389181.0
+Oklahoma,Cities,Cleveland,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,3224.0
+Ohio,OtherAgencies,ClevelandMetropolitanParkDistrict,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Michigan,Cities,ClintonTownship,4,0,0,0,0,0.0,0.0,1.0,2.0,0.0,1.0,98071.0
+New Jersey,Cities,Closter,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8548.0
+South Carolina,Cities,Clover,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5342.0
+California,Cities,Clovis,0,1,2,1,0,0.0,0.0,0.0,1.0,1.0,2.0,99483.0
+Georgia,MetropolitanCounties,CobbCountyPoliceDepartment,19,3,2,3,0,0.0,0.0,1.0,12.0,8.0,6.0,
+Arizona,MetropolitanCounties,Cochise,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+South Dakota,NonmetropolitanCounties,Codington,3,0,0,0,0,0.0,0.0,1.0,0.0,2.0,0.0,
+Idaho,Cities,Coeurd'Alene,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,46023.0
+New York,Cities,Cohoes,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,16179.0
+Vermont,Cities,Colchester,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,17288.0
+Michigan,Cities,Coldwater,1,0,2,0,0,0.0,0.0,0.0,2.0,0.0,1.0,10876.0
+Ohio,Cities,ColerainTownship,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,58578.0
+Tennessee,Cities,Collegedale,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9468.0
+South Carolina,NonmetropolitanCounties,Colleton,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Florida,MetropolitanCounties,Collier,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Texas,MetropolitanCounties,Collin,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New York,Cities,ColonieTown,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,78215.0
+Colorado,Cities,ColoradoSprings,3,1,2,1,0,0.0,0.0,2.0,4.0,1.0,0.0,436108.0
+Colorado,StatePoliceAgencies,ColoradoStatePatrol,1,0,0,0,0,,,0.0,0.0,0.0,1.0,
+Colorado,UniversitiesandColleges,"ColoradoStateUniversity,FortCollins",1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,30659.0
+California,Cities,Colton,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,53403.0
+New Jersey,Cities,ColtsNeckTownship,3,0,0,0,0,0.0,0.0,0.0,0.0,2.0,1.0,10075.0
+South Carolina,Cities,Columbia,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,132240.0
+Washington,MetropolitanCounties,Columbia,0,0,0,2,0,0.0,0.0,0.0,2.0,,,
+Montana,Cities,ColumbiaFalls,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,4721.0
+Minnesota,Cities,ColumbiaHeights,1,0,0,1,0,0.0,0.0,1.0,1.0,0.0,0.0,19715.0
+Nebraska,Cities,Columbus,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,22624.0
+Ohio,Cities,Columbus,88,4,17,15,12,0.0,0.0,8.0,22.0,60.0,46.0,816364.0
+Texas,Cities,Commerce,1,0,0,0,1,0.0,0.0,1.0,1.0,0.0,0.0,8267.0
+Colorado,Cities,CommerceCity,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,49200.0
+California,Cities,Compton,1,0,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,97907.0
+California,Cities,Concord,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,125464.0
+New Hampshire,Cities,Concord,2,1,0,0,0,0.0,0.0,0.0,2.0,1.0,0.0,42615.0
+North Carolina,Cities,Concord,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,82899.0
+Connecticut,StatePoliceAgencies,ConnecticutStatePolice,1,1,3,2,0,0.0,0.0,2.0,1.0,4.0,0.0,
+New Hampshire,Cities,Conway,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,10056.0
+Georgia,Cities,Conyers,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,15465.0
+Illinois,MetropolitanCounties,Cook,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Kentucky,Cities,Corbin,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,7257.0
+California,Cities,Corcoran,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,23290.0
+New York,UniversitiesandColleges,CornellUniversity,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,,21424.0
+California,Cities,Corona,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,160159.0
+California,Cities,Coronado,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,23183.0
+Texas,Cities,CorpusChristi,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,314523.0
+South Dakota,NonmetropolitanCounties,Corson,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+California,Cities,CostaMesa,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,112538.0
+California,Cities,Covina,0,2,1,0,0,0.0,0.0,0.0,3.0,0.0,0.0,48524.0
+Kentucky,Cities,Covington,3,0,3,3,0,0.0,0.0,1.0,4.0,2.0,2.0,40766.0
+Tennessee,Cities,Covington,1,0,0,12,4,0.0,0.0,3.0,1.0,5.0,8.0,9076.0
+Washington,Cities,Covington,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,18526.0
+Washington,MetropolitanCounties,Cowlitz,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Nebraska,Cities,Cozad,0,0,0,1,0,0.0,0.0,1.0,,0.0,0.0,3929.0
+New Jersey,Cities,CranfordTownship,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,23165.0
+Arkansas,MetropolitanCounties,Crawford,2,0,2,0,0,0.0,0.0,0.0,2.0,1.0,1.0,
+New York,Cities,CrawfordTown,3,4,0,0,0,0.0,0.0,0.0,1.0,0.0,6.0,9264.0
+North Carolina,Cities,Creedmoor,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,4254.0
+Minnesota,Cities,Crosby,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,2369.0
+New York,Cities,Croton-on-HudsonVillage,0,0,0,0,0,1.0,0.0,0.0,1.0,0.0,0.0,8180.0
+Illinois,Cities,CrystalLake,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,40383.0
+Illinois,NonmetropolitanCounties,Cumberland,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Virginia,NonmetropolitanCounties,Cumberland,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+California,Cities,Cupertino,0,0,0,0,0,0.0,1.0,0.0,0.0,0.0,1.0,60440.0
+Kentucky,Cities,Cynthiana,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,6305.0
+California,Cities,Cypress,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,49067.0
+Texas,Cities,Dallas,3,2,9,4,0,0.0,0.0,2.0,4.0,9.0,3.0,1255015.0
+California,Cities,DalyCity,0,2,1,0,0,0.0,0.0,1.0,0.0,1.0,1.0,104536.0
+California,Cities,DanaPoint,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,34262.0
+Connecticut,Cities,Danbury,0,1,1,1,0,0.0,0.0,,2.0,,1.0,83363.0
+Wisconsin,MetropolitanCounties,Dane,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Massachusetts,Cities,Danvers,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,27263.0
+Kentucky,Cities,Danville,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,16388.0
+Virginia,Cities,Danville,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,43133.0
+Kentucky,MetropolitanCounties,Daviess,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+California,Cities,Davis,2,1,4,1,0,0.0,0.0,3.0,4.0,0.0,1.0,66126.0
+Nebraska,NonmetropolitanCounties,Dawson,3,0,0,0,0,0.0,0.0,0.0,0.0,1.0,2.0,
+Ohio,Cities,Dayton,5,0,2,1,0,0.0,0.0,2.0,3.0,1.0,2.0,141167.0
+Illinois,Cities,DeKalb,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,43765.0
+Missouri,MetropolitanCounties,DeKalb,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Massachusetts,UniversitiesandColleges,DeanCollege,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1322.0
+Michigan,Cities,Dearborn,7,2,2,3,0,0.0,0.0,7.0,4.0,2.0,1.0,96012.0
+Ohio,MetropolitanCounties,Delaware,1,0,0,1,0,0.0,0.0,0.0,0.0,2.0,0.0,
+Delaware,UniversitiesandColleges,DelawareStateUniversity,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,4324.0
+New Jersey,Cities,DelranTownship,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,16862.0
+Florida,Cities,DelrayBeach,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,62887.0
+Texas,Cities,Denison,1,0,0,0,1,0.0,0.0,0.0,1.0,1.0,0.0,22652.0
+Texas,Cities,Denton,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,123260.0
+Colorado,Cities,Denver,9,5,15,1,0,0.0,0.0,3.0,13.0,9.0,5.0,648981.0
+California,OtherAgencies,"DepartmentofParksandRecreation,TehachapiDistrict",1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Tennessee,StatePoliceAgencies,DepartmentofSafety,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Connecticut,Cities,Derby,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,12806.0
+Washington,Cities,DesMoines,4,1,0,0,0,0.0,0.0,0.0,1.0,2.0,2.0,30684.0
+Oregon,MetropolitanCounties,Deschutes,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michigan,Cities,Detroit,2,0,1,0,0,0.0,0.0,0.0,0.0,1.0,2.0,699889.0
+North Dakota,Cities,DevilsLake,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7260.0
+North Dakota,Cities,Dickinson,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,20347.0
+Colorado,Cities,Dillon,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,906.0
+South Carolina,Cities,Dillon,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,6627.0
+Illinois,Cities,Dixon,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,15304.0
+Kansas,Cities,DodgeCity,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,28265.0
+Illinois,NonmetropolitanCounties,Douglas,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Kansas,MetropolitanCounties,Douglas,0,0,1,1,0,0.0,0.0,0.0,2.0,0.0,0.0,
+Massachusetts,Cities,Douglas,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,8628.0
+Oregon,NonmetropolitanCounties,Douglas,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Delaware,Cities,Dover,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,37402.0
+Massachusetts,Cities,Dover,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5778.0
+Massachusetts,Cities,Dracut,4,1,0,0,0,0.0,0.0,0.0,1.0,2.0,2.0,30533.0
+Utah,Cities,Draper,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,44680.0
+California,Cities,Duarte,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,21759.0
+Minnesota,Cities,Duluth,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,86211.0
+West Virginia,Cities,Dunbar,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7834.0
+North Dakota,NonmetropolitanCounties,Dunn,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Colorado,Cities,Durango,0,0,2,0,0,0.0,0.0,1.0,0.0,1.0,0.0,17303.0
+North Carolina,Cities,Durham,2,1,3,1,0,0.0,0.0,3.0,0.0,4.0,0.0,242865.0
+Tennessee,Cities,Dyersburg,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,17013.0
+Minnesota,Cities,Eagan,0,2,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,65052.0
+Arizona,Cities,Eagar,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,5034.0
+New Jersey,Cities,EastBrunswickTownship,1,10,2,1,0,0.0,0.0,3.0,4.0,3.0,4.0,48073.0
+North Carolina,UniversitiesandColleges,EastCarolinaUniversity,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,26947.0
+Michigan,Cities,EastGrandRapids,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,11100.0
+Connecticut,Cities,EastHampton,0,2,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,12934.0
+New Jersey,Cities,EastHanoverTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,11350.0
+Connecticut,Cities,EastHartford,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,51275.0
+Ohio,Cities,EastLiverpool,1,1,0,0,0,0.0,0.0,2.0,0.0,,,11010.0
+Massachusetts,Cities,EastLongmeadow,2,0,3,0,0,0.0,0.0,0.0,3.0,0.0,2.0,15946.0
+New Jersey,Cities,EastOrange,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,64425.0
+Ohio,Cities,EastPalestine,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,4631.0
+Connecticut,Cities,EastWindsor,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,11455.0
+New Jersey,Cities,EastWindsorTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,27564.0
+New Jersey,Cities,EastamptonTownship,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,6103.0
+Michigan,UniversitiesandColleges,EasternMichiganUniversity,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,23518.0
+Washington,UniversitiesandColleges,EasternWashingtonUniversity,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,12587.0
+Michigan,Cities,Eastpointe,1,0,0,1,0,0.0,0.0,0.0,0.0,2.0,0.0,32402.0
+Michigan,MetropolitanCounties,Eaton,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Ohio,Cities,Eaton,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,8307.0
+Minnesota,Cities,EdenPrairie,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,62714.0
+Massachusetts,Cities,Edgartown,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,4252.0
+New Jersey,Cities,EggHarborTownship,2,0,0,1,0,0.0,0.0,0.0,2.0,0.0,1.0,43709.0
+California,Cities,ElCajon,1,0,0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,102012.0
+California,Cities,ElCerrito,0,2,1,4,0,0.0,0.0,3.0,1.0,2.0,1.0,24184.0
+California,MetropolitanCounties,ElDorado,0,0,1,1,0,0.0,0.0,1.0,0.0,0.0,1.0,
+Arizona,Cities,ElMirage,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,32837.0
+California,Cities,ElMonte,5,0,0,0,0,0.0,0.0,0.0,3.0,0.0,2.0,115591.0
+Colorado,MetropolitanCounties,ElPaso,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+Texas,Cities,ElPaso,0,0,3,0,0,0.0,0.0,2.0,1.0,0.0,0.0,679700.0
+Tennessee,Cities,Elizabethton,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,14220.0
+Kentucky,Cities,Elizabethtown,2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,29470.0
+Oklahoma,Cities,ElkCity,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,12463.0
+California,Cities,ElkGrove,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,160925.0
+Michigan,Cities,ElkRapids,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,1629.0
+Minnesota,Cities,ElkRiver,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,23351.0
+Indiana,MetropolitanCounties,Elkhart,2,1,0,0,1,0.0,0.0,0.0,,3.0,1.0,
+Kentucky,Cities,Elkton,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,2211.0
+Kansas,NonmetropolitanCounties,Ellis,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Maine,Cities,Ellsworth,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,7853.0
+New Jersey,Cities,ElmwoodPark,1,0,0,0,1,0.0,0.0,1.0,1.0,0.0,0.0,20077.0
+Kentucky,Cities,Elsmere,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8478.0
+Massachusetts,UniversitiesandColleges,EmersonCollege,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,4531.0
+Utah,NonmetropolitanCounties,Emery,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+California,Cities,Emeryville,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,10415.0
+California,Cities,Encinitas,2,1,0,1,0,0.0,0.0,2.0,1.0,1.0,0.0,61433.0
+Connecticut,Cities,Enfield,1,0,0,0,0,0.0,0.0,,1.0,,,44661.0
+Arkansas,Cities,England,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,2806.0
+Colorado,Cities,Englewood,1,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.0,31454.0
+Ohio,Cities,Englewood,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,13455.0
+Colorado,Cities,Erie,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,19627.0
+New York,MetropolitanCounties,Erie,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,Cities,Escanaba,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,12531.0
+California,Cities,Escondido,4,1,1,2,0,0.0,0.0,2.0,2.0,3.0,1.0,148650.0
+Michigan,Cities,Essexville,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,3436.0
+Oregon,Cities,Eugene,6,4,3,2,0,0.0,0.0,1.0,9.0,1.0,4.0,158499.0
+California,Cities,Eureka,1,0,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,26881.0
+Washington,Cities,Everett,1,1,2,2,0,0.0,0.0,2.0,1.0,1.0,2.0,105129.0
+Texas,Cities,Everman,0,0,1,0,0,0.0,0.0,1.0,,0.0,0.0,6276.0
+New Jersey,Cities,EveshamTownship,7,1,0,0,0,0.0,0.0,4.0,3.0,1.0,0.0,45798.0
+New Jersey,Cities,EwingTownship,1,0,2,0,0,0.0,0.0,0.0,1.0,0.0,2.0,36449.0
+Ohio,Cities,Fairborn,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,32820.0
+Oklahoma,Cities,Fairfax,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,1373.0
+Virginia,MetropolitanCounties,FairfaxCountyPoliceDepartment,7,5,0,1,0,0.0,0.0,3.0,1.0,5.0,4.0,
+California,Cities,Fairfield,2,0,0,1,0,0.0,0.0,1.0,0.0,0.0,2.0,108425.0
+Ohio,Cities,Fairfield,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,42677.0
+South Carolina,MetropolitanCounties,Fairfield,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Arkansas,Cities,FairfieldBay,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2295.0
+West Virginia,Cities,Fairmont,1,1,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,18740.0
+New Jersey,Cities,Fairview,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,14358.0
+Massachusetts,Cities,FallRiver,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,89220.0
+New Jersey,Cities,Fanwood,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7447.0
+North Dakota,Cities,Fargo,8,2,2,1,1,0.0,0.0,2.0,3.0,6.0,3.0,111101.0
+Minnesota,Cities,Faribault,0,0,1,0,0,0.0,0.0,,,1.0,,23405.0
+Michigan,Cities,Farmington,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,10514.0
+New Hampshire,Cities,Farmington,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,6799.0
+Utah,Cities,Farmington,2,0,1,0,0,0.0,0.0,0.0,3.0,0.0,0.0,21582.0
+Virginia,Cities,Farmville,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,8142.0
+Arkansas,MetropolitanCounties,Faulkner,1,0,0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,
+West Virginia,MetropolitanCounties,Fayette,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+North Carolina,Cities,Fayetteville,4,1,0,1,0,0.0,0.0,2.0,1.0,2.0,1.0,202524.0
+Tennessee,Cities,Fayetteville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7155.0
+Washington,Cities,FederalWay,3,4,4,0,0,0.0,0.0,1.0,3.0,3.0,4.0,92741.0
+Pennsylvania,Cities,FergusonTownship,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,17807.0
+Michigan,Cities,Ferndale,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,20104.0
+Washington,Cities,Ferndale,1,1,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,12173.0
+Washington,Cities,Fife,0,0,0,1,0,1.0,0.0,0.0,1.0,1.0,0.0,9380.0
+Ohio,Cities,Findlay,1,0,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,41660.0
+Florida,MetropolitanCounties,Flagler,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,
+Kentucky,Cities,Flatwoods,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7412.0
+Michigan,Cities,FlintTownship,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,31182.0
+Alabama,Cities,Florence,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,39481.0
+Kentucky,Cities,Florence,1,0,0,0,2,0.0,0.0,1.0,1.0,1.0,0.0,31434.0
+Michigan,Cities,Flushing,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,8204.0
+Virginia,MetropolitanCounties,Fluvanna,1,0,0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,
+Wisconsin,Cities,FondduLac,1,0,0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,43042.0
+California,Cities,Fontana,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,203427.0
+California,OtherAgencies,FontanaUnifiedSchoolDistrict,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+South Carolina,Cities,ForestAcres,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,10516.0
+Michigan,Cities,ForsythTownship,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,6278.0
+New Jersey,Cities,FortLee,2,0,1,0,0,0.0,0.0,2.0,1.0,0.0,0.0,35900.0
+Arkansas,Cities,FortSmith,1,0,1,0,0,0.0,0.0,0.0,0.0,0.0,2.0,87821.0
+Indiana,Cities,FortWayne,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,254820.0
+Texas,Cities,FortWorth,9,0,2,5,0,0.0,0.0,5.0,1.0,6.0,4.0,789035.0
+California,Cities,FosterCity,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,32652.0
+Colorado,Cities,Fountain,2,0,1,0,0,0.0,0.0,2.0,1.0,0.0,0.0,27163.0
+Massachusetts,Cities,Framingham,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,70753.0
+Kentucky,Cities,Frankfort,1,0,1,1,0,0.0,0.0,1.0,1.0,0.0,1.0,27680.0
+Indiana,Cities,Franklin,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,24034.0
+Michigan,Cities,Franklin,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,3194.0
+Ohio,MetropolitanCounties,Franklin,0,0,0,2,0,0.0,0.0,1.0,0.0,1.0,0.0,
+Tennessee,Cities,Franklin,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,67465.0
+New Jersey,Cities,FranklinLakes,0,1,0,1,0,0.0,0.0,1.0,1.0,0.0,0.0,10746.0
+New Jersey,Cities,"FranklinTownship,GloucesterCounty",0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,16740.0
+Michigan,Cities,Fraser,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,14529.0
+Maryland,Cities,Frederick,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,66709.0
+Maryland,MetropolitanCounties,Frederick,3,2,0,0,0,0.0,0.0,3.0,0.0,2.0,0.0,
+New Jersey,Cities,FreeholdTownship,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,36048.0
+New York,Cities,FreeportVillage,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,43214.0
+California,Cities,Fresno,4,0,3,2,0,0.0,1.0,3.0,3.0,1.0,3.0,508876.0
+Texas,Cities,Frisco,1,1,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,131769.0
+Michigan,Cities,Fruitport,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1090.0
+California,Cities,Fullerton,0,1,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,139676.0
+Ohio,MetropolitanCounties,Fulton,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ohio,Cities,Gahanna,0,0,2,0,0,0.0,0.0,0.0,0.0,0.0,2.0,34011.0
+Florida,Cities,Gainesville,2,0,1,0,0,0.0,0.0,0.0,0.0,0.0,3.0,126589.0
+Texas,Cities,Gainesville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,16089.0
+Virginia,Cities,Galax,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,6870.0
+New Jersey,Cities,GallowayTownship,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,37304.0
+California,Cities,Galt,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,24553.0
+Michigan,Cities,GardenCity,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,27110.0
+California,Cities,GardenGrove,1,0,0,3,0,0.0,0.0,0.0,1.0,2.0,1.0,175469.0
+Kansas,Cities,Gardner,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,20708.0
+Colorado,NonmetropolitanCounties,Garfield,1,1,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Texas,Cities,Garland,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,235683.0
+Maryland,NonmetropolitanCounties,Garrett,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+North Carolina,Cities,Gastonia,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,73049.0
+Tennessee,Cities,Gatlinburg,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,4074.0
+Ohio,MetropolitanCounties,Geauga,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Virginia,UniversitiesandColleges,GeorgeMasonUniversity,0,3,0,0,0,0.0,0.0,1.0,0.0,2.0,0.0,32961.0
+Kentucky,Cities,Georgetown,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,30611.0
+South Carolina,Cities,Georgetown,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9072.0
+South Carolina,NonmetropolitanCounties,Georgetown,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,OtherAgencies,GeraldR.FordInternationalAirport,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,Cities,GerrishTownship,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,2942.0
+Arizona,Cities,Gilbert,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,225232.0
+Wyoming,Cities,Gillette,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,31884.0
+California,Cities,Gilroy,0,0,2,0,0,0.0,0.0,0.0,1.0,1.0,0.0,51240.0
+Ohio,Cities,Girard,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9771.0
+New Jersey,Cities,Glassboro,8,0,2,2,0,0.0,0.0,3.0,2.0,3.0,4.0,19038.0
+Connecticut,Cities,Glastonbury,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,34782.0
+New Jersey,Cities,GlenRidge,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,7626.0
+Arizona,Cities,Glendale,2,3,1,1,0,0.0,0.0,2.0,0.0,3.0,2.0,234006.0
+California,Cities,Glendale,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,195366.0
+Colorado,Cities,Glendale,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,4502.0
+California,Cities,Glendora,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,50893.0
+Colorado,Cities,GlenwoodSprings,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9715.0
+Virginia,MetropolitanCounties,Gloucester,1,1,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,
+New Jersey,Cities,GloucesterTownship,2,0,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,64440.0
+Colorado,Cities,Golden,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,19334.0
+North Dakota,NonmetropolitanCounties,GoldenValley,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Texas,MetropolitanCounties,Goliad,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Arizona,Cities,Goodyear,0,0,2,0,0,0.0,0.0,1.0,,1.0,0.0,71048.0
+South Carolina,Cities,GooseCreek,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,39425.0
+Indiana,Cities,Goshen,0,0,1,0,0,0.0,0.0,1.0,,0.0,0.0,32195.0
+Oklahoma,MetropolitanCounties,Grady,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,Cities,GrandBlancTownship,2,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,36793.0
+North Dakota,MetropolitanCounties,GrandForks,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Nebraska,Cities,GrandIsland,0,0,0,2,0,0.0,0.0,0.0,0.0,2.0,0.0,50441.0
+Colorado,Cities,GrandJunction,4,0,1,0,0,0.0,0.0,1.0,1.0,2.0,1.0,60167.0
+Michigan,Cities,GrandRapids,2,0,1,0,0,0.0,0.0,1.0,2.0,0.0,0.0,191213.0
+Missouri,Cities,Grandview,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,,24630.0
+Michigan,Cities,Grandville,1,0,1,1,1,0.0,0.0,2.0,0.0,2.0,0.0,15669.0
+Washington,Cities,GraniteFalls,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,,3435.0
+North Dakota,NonmetropolitanCounties,Grant,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Washington,NonmetropolitanCounties,Grant,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Wisconsin,NonmetropolitanCounties,Grant,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Utah,Cities,Grantsville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9530.0
+Texas,Cities,Grapevine,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,49075.0
+Michigan,Cities,Grayling,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1872.0
+Tennessee,Cities,Graysville,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,1512.0
+Montana,Cities,GreatFalls,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,58940.0
+New York,Cities,GreeceTown,3,0,0,0,0,0.0,0.0,0.0,1.0,2.0,0.0,96667.0
+Colorado,Cities,Greeley,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,96111.0
+Wisconsin,Cities,GreenBay,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,105107.0
+New Jersey,Cities,GreenBrookTownship,0,2,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,7240.0
+Maryland,Cities,Greenbelt,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,23680.0
+Arkansas,NonmetropolitanCounties,Greene,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Ohio,MetropolitanCounties,Greene,2,0,1,0,0,0.0,0.0,1.0,2.0,0.0,0.0,
+Tennessee,Cities,Greeneville,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,15015.0
+Massachusetts,Cities,Greenfield,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,17598.0
+Ohio,Cities,Greenhills,1,0,0,0,1,0.0,0.0,2.0,0.0,0.0,0.0,3591.0
+North Carolina,Cities,Greensboro,3,0,0,0,0,0.0,0.0,0.0,1.0,0.0,2.0,279343.0
+North Carolina,Cities,Greenville,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,88018.0
+South Carolina,Cities,Greenville,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,61185.0
+New Jersey,Cities,"GreenwichTownship,WarrenCounty",1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,5582.0
+Kansas,NonmetropolitanCounties,Greenwood,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Colorado,Cities,GreenwoodVillage,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,14614.0
+California,Cities,Gridley,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,6563.0
+Iowa,Cities,Grinnell,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,9090.0
+Michigan,Cities,GrossePointePark,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,11287.0
+Michigan,Cities,GrossePointeWoods,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,15760.0
+Connecticut,Cities,Groton,1,1,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,9359.0
+Connecticut,Cities,GrotonTown,1,0,0,0,1,0.0,0.0,0.0,1.0,1.0,0.0,29946.0
+Ohio,Cities,GroveCity,3,0,0,1,0,0.0,0.0,1.0,2.0,1.0,0.0,37208.0
+Connecticut,Cities,Guilford,0,1,0,0,0,0.0,0.0,,,1.0,,22409.0
+North Carolina,MetropolitanCounties,Guilford,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Mississippi,Cities,Gulfport,1,0,0,2,0,0.0,0.0,2.0,1.0,0.0,0.0,70863.0
+Arkansas,Cities,Gurdon,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2184.0
+New Jersey,Cities,HaddonTownship,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,14732.0
+New Jersey,Cities,Haddonfield,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,11590.0
+Idaho,Cities,Hailey,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,7915.0
+Florida,Cities,Hallandale,2,0,1,0,0,0.0,0.0,0.0,1.0,0.0,2.0,38710.0
+New York,Cities,HamburgTown,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,45535.0
+Connecticut,Cities,Hamden,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,60829.0
+Montana,Cities,Hamilton,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,4555.0
+Ohio,Cities,Hamilton,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,,62268.0
+New Hampshire,Cities,Hampton,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,15067.0
+South Carolina,NonmetropolitanCounties,Hampton,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Virginia,Cities,Hampton,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,136949.0
+New Hampshire,Cities,HamptonFalls,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,2294.0
+Michigan,Cities,Hamtramck,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,22017.0
+Ohio,NonmetropolitanCounties,Hancock,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,
+West Virginia,MetropolitanCounties,Hancock,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+California,Cities,Hanford,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,54425.0
+New Hampshire,Cities,Hanover,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,11195.0
+South Carolina,Cities,Hardeeville,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,4064.0
+Kentucky,MetropolitanCounties,Hardin,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New Jersey,Cities,HardystonTownship,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,8049.0
+Maryland,MetropolitanCounties,Harford,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Texas,Cities,Harlingen,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,65885.0
+Michigan,Cities,HarperWoods,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,13922.0
+Texas,MetropolitanCounties,Harris,1,1,0,1,0,0.0,0.0,1.0,1.0,0.0,1.0,
+New Jersey,Cities,Harrison,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,13975.0
+West Virginia,NonmetropolitanCounties,Harrison,1,1,2,0,0,0.0,0.0,0.0,0.0,2.0,2.0,
+New Jersey,Cities,HarrisonTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,12616.0
+Virginia,Cities,Harrisonburg,3,0,1,0,0,0.0,0.0,1.0,2.0,0.0,1.0,51767.0
+Kentucky,Cities,Harrodsburg,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,8301.0
+Connecticut,Cities,Hartford,1,1,2,0,0,0.0,0.0,2.0,1.0,1.0,0.0,124927.0
+Michigan,Cities,Hartford,3,0,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,2633.0
+South Carolina,Cities,Hartsville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7877.0
+Illinois,Cities,Harvey,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,25408.0
+Massachusetts,Cities,Haverhill,2,1,3,2,0,0.0,0.0,4.0,2.0,1.0,1.0,62249.0
+California,Cities,HawaiianGardens,4,0,0,0,0,0.0,0.0,2.0,1.0,1.0,0.0,14437.0
+Kansas,Cities,Hays,1,0,1,0,0,0.0,0.0,0.0,2.0,0.0,0.0,21156.0
+California,Cities,Hayward,0,1,1,0,0,0.0,0.0,0.0,2.0,0.0,0.0,150955.0
+Kentucky,Cities,Hazard,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5455.0
+Michigan,Cities,HazelPark,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,16642.0
+California,Cities,Healdsburg,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,11483.0
+Oklahoma,Cities,Heavener,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,3377.0
+Utah,Cities,Heber,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,,12544.0
+Montana,Cities,Helena,11,0,0,0,0,0.0,0.0,11.0,0.0,0.0,0.0,29411.0
+Kentucky,Cities,Henderson,2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,28952.0
+Nevada,Cities,Henderson,1,0,0,0,0,0.0,0.0,,,1.0,,268237.0
+Minnesota,MetropolitanCounties,Hennepin,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Virginia,MetropolitanCounties,HenricoCountyPoliceDepartment,2,3,0,0,0,0.0,0.0,0.0,4.0,0.0,1.0,
+Missouri,NonmetropolitanCounties,Henry,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Tennessee,NonmetropolitanCounties,Henry,0,0,0,2,0,0.0,0.0,0.0,0.0,1.0,1.0,
+Georgia,MetropolitanCounties,HenryCountyPoliceDepartment,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+California,Cities,Hercules,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,24831.0
+Tennessee,MetropolitanCounties,Hickman,1,0,1,1,0,0.0,0.0,0.0,0.0,2.0,1.0,
+North Carolina,Cities,Hickory,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,40109.0
+Michigan,Cities,HighlandPark,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,11591.0
+New Jersey,Cities,HighlandPark,2,3,3,0,0,0.0,0.0,1.0,4.0,2.0,1.0,14420.0
+New Jersey,Cities,Hightstown,1,1,0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,5572.0
+California,StatePoliceAgencies,"HighwayPatrol,PlumasCounty",1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Florida,MetropolitanCounties,Hillsborough,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New Jersey,Cities,HillsboroughTownship,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,39037.0
+Kentucky,Cities,Hillview,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9465.0
+New Jersey,Cities,Hoboken,3,3,1,0,0,0.0,0.0,1.0,2.0,1.0,3.0,52771.0
+Michigan,Cities,Holland,1,0,0,1,0,0.0,0.0,2.0,0.0,0.0,0.0,33354.0
+South Carolina,Cities,HollyHill,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,1259.0
+New Jersey,Cities,HolmdelTownship,2,3,0,0,0,0.0,0.0,2.0,2.0,0.0,1.0,16657.0
+California,Cities,Holtville,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6022.0
+Florida,Cities,Homestead,2,0,1,0,0,0.0,0.0,2.0,1.0,0.0,0.0,64024.0
+South Carolina,Cities,HoneaPath,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,3613.0
+Alabama,Cities,Hoover,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,84139.0
+Virginia,Cities,Hopewell,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,22305.0
+Kentucky,NonmetropolitanCounties,Hopkins,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Kentucky,Cities,Hopkinsville,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,33253.0
+Washington,Cities,Hoquiam,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8472.0
+South Carolina,MetropolitanCounties,HorryCountyPoliceDepartment,1,0,0,1,0,0.0,0.0,1.0,0.0,0.0,1.0,
+Texas,Cities,Houston,4,0,5,4,0,0.0,0.0,4.0,5.0,1.0,3.0,2180606.0
+Maryland,MetropolitanCounties,HowardCountyPoliceDepartment,4,0,1,1,0,0.0,0.0,0.0,2.0,2.0,2.0,
+New Jersey,Cities,HowellTownship,5,6,4,3,0,0.0,0.0,2.0,7.0,5.0,4.0,51100.0
+Ohio,Cities,HuberHeights,1,1,4,0,2,0.0,0.0,1.0,3.0,4.0,0.0,38118.0
+Ohio,Cities,Hudson,1,0,0,1,0,0.0,0.0,1.0,0.0,1.0,0.0,22340.0
+Tennessee,Cities,Humboldt,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,8458.0
+California,UniversitiesandColleges,HumboldtStateUniversity,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,8116.0
+Texas,MetropolitanCounties,Hunt,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,
+North Carolina,Cities,Huntersville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,50162.0
+West Virginia,Cities,Huntington,4,1,2,1,0,0.0,0.0,1.0,2.0,5.0,0.0,49172.0
+California,Cities,HuntingtonBeach,0,0,0,0,0,0.0,1.0,0.0,1.0,0.0,0.0,195842.0
+Michigan,Cities,HuntingtonWoods,0,2,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,6305.0
+Kansas,Cities,Hutchinson,3,1,0,0,0,0.0,0.0,1.0,1.0,1.0,1.0,41909.0
+South Dakota,NonmetropolitanCounties,Hutchinson,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New York,Cities,HydeParkTown,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,21397.0
+Louisiana,MetropolitanCounties,Iberia,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Iowa,NonmetropolitanCounties,Ida,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+California,Cities,ImperialBeach,1,0,1,1,0,0.0,0.0,1.0,1.0,1.0,0.0,26998.0
+Missouri,Cities,Independence,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,117381.0
+Texas,OtherAgencies,"IndependentSchoolDistrict,Humble",0,0,1,0,0,0.0,0.0,1.0,0.0,,0.0,
+Indiana,Cities,Indianapolis,29,0,6,8,0,0.0,0.0,8.0,15.0,16.0,4.0,850220.0
+Iowa,Cities,Indianola,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,14993.0
+Michigan,MetropolitanCounties,Ingham,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Michigan,Cities,Inkster,3,0,0,0,0,0.0,0.0,2.0,0.0,0.0,1.0,24850.0
+Minnesota,Cities,InverGroveHeights,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,34294.0
+Kansas,Cities,Iola,1,0,1,0,0,0.0,0.0,0.0,2.0,0.0,0.0,5697.0
+Iowa,UniversitiesandColleges,IowaStateUniversity,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,30748.0
+North Carolina,MetropolitanCounties,Iredell,0,5,0,0,0,0.0,0.0,0.0,2.0,3.0,0.0,
+California,Cities,Irvine,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,235830.0
+Illinois,Cities,Irving,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,485.0
+New Jersey,Cities,Irvington,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,54246.0
+New York,Cities,Ithaca,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,,30433.0
+New York,UniversitiesandColleges,IthacaCollege,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,6759.0
+Illinois,MetropolitanCounties,Jackson,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Michigan,Cities,Jackson,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,33378.0
+Michigan,MetropolitanCounties,Jackson,1,1,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+Ohio,NonmetropolitanCounties,Jackson,2,0,0,0,0,0.0,0.0,0.0,,2.0,0.0,
+Oregon,MetropolitanCounties,Jackson,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Tennessee,Cities,Jackson,0,2,2,0,0,0.0,0.0,2.0,0.0,1.0,1.0,67371.0
+New Jersey,Cities,JacksonTownship,2,1,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,55817.0
+Ohio,Cities,"JacksonTownship,StarkCounty",1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,40436.0
+Florida,Cities,Jacksonville,5,0,0,0,0,0.0,0.0,3.0,1.0,1.0,0.0,845745.0
+Virginia,MetropolitanCounties,JamesCityCountyPoliceDepartment,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Virginia,UniversitiesandColleges,JamesMadisonUniversity,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,19927.0
+New York,Cities,Jamestown,2,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,30658.0
+Wisconsin,Cities,Janesville,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,63603.0
+Louisiana,MetropolitanCounties,Jefferson,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,,
+Missouri,MetropolitanCounties,Jefferson,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Tennessee,MetropolitanCounties,Jefferson,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Washington,NonmetropolitanCounties,Jefferson,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New Jersey,Cities,JerseyCity,2,0,2,1,0,0.0,0.0,0.0,3.0,0.0,2.0,256886.0
+Tennessee,Cities,JohnsonCity,2,0,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,64928.0
+Rhode Island,Cities,Johnston,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,29068.0
+Pennsylvania,Cities,Johnstown,3,0,0,0,0,0.0,0.0,0.0,1.0,2.0,,21954.0
+Tennessee,Cities,Jonesborough,0,0,0,4,1,0.0,0.0,0.0,0.0,2.0,3.0,5163.0
+Michigan,Cities,Jonesville,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2231.0
+Missouri,Cities,Joplin,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,49272.0
+Florida,Cities,Jupiter,1,0,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,57826.0
+California,Cities,JurupaValley,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,98090.0
+Washington,Cities,Kalama,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2316.0
+Michigan,Cities,Kalamazoo,4,0,0,0,0,0.0,0.0,0.0,3.0,1.0,0.0,75352.0
+Montana,Cities,Kalispell,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,20665.0
+Missouri,Cities,KansasCity,30,7,14,5,1,4.0,2.0,13.0,17.0,21.0,12.0,465514.0
+New Jersey,Cities,Keansburg,3,0,1,0,0,0.0,0.0,1.0,0.0,2.0,1.0,9981.0
+Nebraska,Cities,Kearney,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,32113.0
+New Hampshire,Cities,Keene,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,23236.0
+Washington,Cities,Kelso,4,0,0,0,0,0.0,0.0,1.0,1.0,1.0,1.0,11802.0
+Washington,Cities,Kenmore,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,21531.0
+Georgia,UniversitiesandColleges,KennesawStateUniversity,0,0,2,0,0,0.0,0.0,1.0,0.0,0.0,1.0,24604.0
+Michigan,MetropolitanCounties,Kent,2,0,1,0,0,0.0,0.0,1.0,2.0,0.0,0.0,
+Ohio,UniversitiesandColleges,KentStateUniversity,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,28602.0
+Washington,Cities,Kent3,8,0,1,0,0,0.0,0.0,0.0,5.0,2.0,2.0,124359.0
+Michigan,Cities,Kentwood,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,50016.0
+California,MetropolitanCounties,Kern,1,0,1,3,0,0.0,0.0,1.0,3.0,0.0,1.0,
+Ohio,Cities,Kettering,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,55907.0
+North Carolina,Cities,King,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,6860.0
+Washington,MetropolitanCounties,King,1,1,1,0,0,0.0,0.0,0.0,1.0,1.0,1.0,
+Virginia,NonmetropolitanCounties,KingGeorge,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+California,MetropolitanCounties,Kings,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Tennessee,Cities,Kingsport,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,51496.0
+Massachusetts,Cities,Kingston,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,12791.0
+Washington,MetropolitanCounties,Kitsap,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Washington,NonmetropolitanCounties,Klickitat,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Kentucky,NonmetropolitanCounties,Knott,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Kentucky,NonmetropolitanCounties,Knox,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Ohio,NonmetropolitanCounties,Knox,2,1,0,0,0,0.0,0.0,0.0,2.0,0.0,1.0,
+Tennessee,Cities,Knoxville,0,0,0,2,0,0.0,0.0,0.0,1.0,1.0,0.0,183249.0
+Wisconsin,Cities,LaCrosse,0,0,2,0,0,0.0,0.0,0.0,1.0,1.0,0.0,51741.0
+Illinois,Cities,LaGrange,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,15718.0
+California,Cities,LaHabra,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,61740.0
+California,Cities,LaMirada,1,2,0,0,0,0.0,0.0,1.0,2.0,0.0,0.0,49150.0
+California,Cities,LaQuinta,1,1,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,39150.0
+Washington,Cities,Lacey,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,44298.0
+New Jersey,Cities,LaceyTownship,3,0,2,2,1,0.0,0.0,1.0,5.0,1.0,1.0,27865.0
+Missouri,NonmetropolitanCounties,Laclede,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Colorado,Cities,Lafayette,2,0,0,1,0,0.0,0.0,0.0,1.0,2.0,0.0,26145.0
+California,Cities,LagunaBeach,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,23313.0
+California,NonmetropolitanCounties,Lake,0,0,0,2,0,0.0,0.0,2.0,0.0,0.0,0.0,
+Florida,MetropolitanCounties,Lake,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Illinois,MetropolitanCounties,Lake,1,0,0,1,0,0.0,0.0,0.0,0.0,2.0,0.0,
+Tennessee,NonmetropolitanCounties,Lake,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Florida,Cities,LakeAlfred,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,5148.0
+California,Cities,LakeElsinore,0,2,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,56232.0
+California,Cities,LakeForest,2,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,79336.0
+Michigan,Cities,LakeOrion,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,3052.0
+Massachusetts,Cities,Lakeville,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,10939.0
+California,Cities,Lakewood,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,81086.0
+Colorado,Cities,Lakewood,1,1,1,1,0,0.0,0.0,1.0,1.0,0.0,2.0,146298.0
+Washington,Cities,Lakewood,3,0,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,59057.0
+New Jersey,Cities,LakewoodTownship,5,15,0,3,0,0.0,0.0,2.0,6.0,7.0,8.0,92664.0
+California,Cities,Lancaster,3,1,0,1,0,0.0,0.0,1.0,2.0,1.0,1.0,159792.0
+Nebraska,MetropolitanCounties,Lancaster,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ohio,Cities,Lancaster,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,38902.0
+Pennsylvania,Cities,Lancaster,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,59370.0
+Pennsylvania,MetropolitanCounties,Lancaster,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+South Carolina,MetropolitanCounties,Lancaster,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Texas,Cities,Lancaster,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,38209.0
+Oregon,MetropolitanCounties,Lane,1,0,0,0,0,0.0,0.0,,1.0,,,
+Kansas,Cities,Lansing,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,11688.0
+Michigan,Cities,Lansing,2,1,1,1,0,0.0,0.0,0.0,2.0,2.0,1.0,113907.0
+Florida,Cities,Largo,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,77913.0
+Colorado,MetropolitanCounties,Larimer,0,0,2,0,0,0.0,0.0,0.0,0.0,0.0,2.0,
+Kansas,Cities,Larned,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,4012.0
+Nevada,Cities,LasVegasMetropolitanPoliceDepartment,27,9,23,6,0,0.0,0.0,16.0,13.0,18.0,18.0,1500455.0
+South Carolina,Cities,Latta,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,1349.0
+Kansas,Cities,Lawrence,5,2,1,2,0,0.0,0.0,1.0,2.0,4.0,3.0,90034.0
+New Jersey,Cities,"LawrenceTownship,MercerCounty",0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,33172.0
+Kansas,Cities,Leavenworth,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,35965.0
+Kansas,MetropolitanCounties,Leavenworth,0,0,0,0,1,0.0,0.0,0.0,0.0,1.0,0.0,
+Pennsylvania,UniversitiesandColleges,LehighUniversity,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7080.0
+Kentucky,Cities,Leitchfield,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,6814.0
+North Carolina,Cities,Leland,1,0,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,15535.0
+California,Cities,LemonGrove,1,0,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,26156.0
+California,Cities,Lemoore,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,24802.0
+Kansas,Cities,Lenexa,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,49777.0
+Maine,Cities,Lewiston,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,36422.0
+Pennsylvania,Cities,Lewistown,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,8370.0
+Kentucky,Cities,Lexington,16,1,5,4,1,0.0,0.0,5.0,10.0,10.0,2.0,308712.0
+Nebraska,Cities,Lexington,2,0,0,0,0,0.0,0.0,0.0,,0.0,2.0,10204.0
+South Carolina,Cities,Lexington,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,19547.0
+South Carolina,MetropolitanCounties,Lexington,2,0,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,
+New York,Cities,LibertyVillage,0,4,0,0,0,0.0,0.0,0.0,0.0,0.0,4.0,4285.0
+North Carolina,Cities,Lilesville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,519.0
+Massachusetts,Cities,Lincoln,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6563.0
+Nebraska,Cities,Lincoln,8,2,4,1,0,0.0,0.0,5.0,3.0,2.0,5.0,267565.0
+Washington,NonmetropolitanCounties,Lincoln,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Wisconsin,NonmetropolitanCounties,Lincoln,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Michigan,Cities,LincolnTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,14618.0
+Minnesota,Cities,LinoLakes,0,0,1,0,0,0.0,0.0,,0.0,0.0,1.0,20910.0
+New Jersey,Cities,LittleEggHarborTownship,3,1,0,2,0,0.0,0.0,1.0,2.0,0.0,3.0,20412.0
+New Jersey,Cities,LittleFallsTownship,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,14504.0
+Colorado,Cities,Littleton,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,44375.0
+California,Cities,Livermore,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,84350.0
+Michigan,MetropolitanCounties,Livingston,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New York,MetropolitanCounties,Livingston,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New Jersey,Cities,LivingstonTownship,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,29621.0
+Michigan,Cities,Livonia,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,95220.0
+California,Cities,Lodi,0,0,0,2,0,0.0,0.0,0.0,1.0,1.0,0.0,63639.0
+Colorado,NonmetropolitanCounties,Logan,1,1,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+New Jersey,Cities,LoganTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,6019.0
+California,Cities,Lomita,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,20622.0
+New Hampshire,Cities,Londonderry,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,24338.0
+Colorado,Cities,LoneTree,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,12056.0
+California,Cities,LongBeach,3,1,1,0,0,0.0,0.0,3.0,0.0,1.0,1.0,469665.0
+New Jersey,Cities,LongBeachTownship,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,3068.0
+Colorado,Cities,Longmont,1,0,1,1,0,0.0,0.0,2.0,1.0,0.0,0.0,89434.0
+Texas,Cities,Longview,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,81273.0
+Arkansas,MetropolitanCounties,Lonoke,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Ohio,Cities,Lorain,7,0,0,0,0,0.0,0.0,0.0,5.0,1.0,1.0,63582.0
+Ohio,MetropolitanCounties,Lorain,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+California,Cities,LosAlamitos,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,11735.0
+California,Cities,LosAngeles,41,29,33,9,0,0.0,2.0,21.0,40.0,25.0,28.0,3878725.0
+California,MetropolitanCounties,LosAngeles,20,3,17,10,0,0.0,0.0,14.0,10.0,11.0,15.0,
+California,OtherAgencies,LosAngelesTransportationServicesBureau,2,1,3,0,0,0.0,0.0,3.0,3.0,0.0,0.0,
+California,Cities,LosGatos,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,30351.0
+New Mexico,Cities,LosLunas,1,0,0,0,0,0.0,0.0,0.0,,1.0,,15252.0
+Virginia,MetropolitanCounties,Loudoun,2,1,0,0,0,0.0,0.0,2.0,0.0,1.0,0.0,
+Virginia,NonmetropolitanCounties,Louisa,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Kansas,Cities,Louisburg,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,4268.0
+Kentucky,Cities,LouisvilleMetro,7,0,4,0,0,0.0,0.0,2.0,4.0,3.0,2.0,671120.0
+Colorado,Cities,Loveland,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,71325.0
+Massachusetts,Cities,Lowell,0,0,1,1,0,0.0,0.0,0.0,0.0,1.0,1.0,109449.0
+New Jersey,Cities,LowerTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,22467.0
+Ohio,MetropolitanCounties,Lucas,0,1,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,
+Kentucky,Cities,Ludlow,1,0,0,0,1,0.0,0.0,0.0,2.0,0.0,0.0,4536.0
+New Jersey,Cities,LumbertonTownship,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,12516.0
+Massachusetts,Cities,Lunenburg,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,11149.0
+Massachusetts,Cities,Lynn,3,2,5,4,2,0.0,0.0,1.0,5.0,6.0,4.0,91769.0
+California,Cities,Lynwood,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,71077.0
+Kentucky,NonmetropolitanCounties,Lyon,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Maine,Cities,Machias3,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2173.0
+Michigan,Cities,MackinacIsland,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,494.0
+Michigan,MetropolitanCounties,Macomb,10,1,1,1,0,0.0,0.0,2.0,5.0,3.0,3.0,
+Wisconsin,Cities,Madison,3,1,3,5,0,0.0,0.0,3.0,5.0,2.0,2.0,242523.0
+Michigan,Cities,MadisonHeights,4,1,0,0,0,0.0,0.0,1.0,2.0,1.0,1.0,30080.0
+Michigan,Cities,MadisonTownship,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8567.0
+Kentucky,Cities,Madisonville,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,19761.0
+Minnesota,NonmetropolitanCounties,Mahnomen,0,0,1,0,0,0.0,0.0,,,1.0,,
+New Jersey,Cities,MahwahTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,26292.0
+Massachusetts,Cities,Malden,1,2,0,0,0,0.0,0.0,0.0,2.0,1.0,0.0,60816.0
+California,Cities,Malibu,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,12891.0
+New Jersey,Cities,ManalapanTownship,1,0,0,2,0,0.0,0.0,2.0,0.0,1.0,0.0,39313.0
+New Jersey,Cities,Manasquan,1,2,0,0,0,0.0,0.0,1.0,2.0,0.0,0.0,5860.0
+Virginia,Cities,Manassas,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,41512.0
+Virginia,Cities,ManassasPark,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,16332.0
+Florida,MetropolitanCounties,Manatee,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Connecticut,Cities,Manchester,7,2,0,1,0,0.0,0.0,2.0,2.0,4.0,2.0,58304.0
+New Hampshire,Cities,Manchester,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,110411.0
+Tennessee,Cities,Manchester,0,0,0,2,0,0.0,0.0,1.0,1.0,0.0,0.0,10258.0
+New Jersey,Cities,ManchesterTownship,3,0,0,0,0,0.0,0.0,0.0,3.0,0.0,0.0,43013.0
+North Dakota,Cities,Mandan,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,19168.0
+California,Cities,ManhattanBeach,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,35930.0
+Wisconsin,NonmetropolitanCounties,Manitowoc,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Minnesota,Cities,Mankato,2,2,2,0,0,0.0,0.0,0.0,2.0,2.0,2.0,40360.0
+South Carolina,Cities,Manning,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,4034.0
+Ohio,Cities,Mansfield,4,0,0,0,0,0.0,0.0,0.0,3.0,0.0,1.0,46832.0
+California,Cities,Manteca,1,1,1,0,0,0.0,0.0,1.0,1.0,0.0,1.0,72261.0
+Minnesota,Cities,MapleGrove,0,0,1,0,0,0.0,0.0,,1.0,0.0,0.0,65318.0
+New Jersey,Cities,MapleShadeTownship,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,19291.0
+Washington,Cities,MapleValley,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,24644.0
+Texas,Cities,MarbleFalls,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,6095.0
+Massachusetts,Cities,Marblehead,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,20209.0
+New Jersey,Cities,MargateCity,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6319.0
+Arizona,Cities,Maricopa,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,44871.0
+Arizona,MetropolitanCounties,Maricopa,1,1,0,0,0,0.0,0.0,0.0,,,2.0,
+California,UniversitiesandColleges,MarinCommunityCollege,0,1,1,0,0,0.0,0.0,2.0,0.0,0.0,0.0,7058.0
+Arkansas,Cities,Marion,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,12258.0
+Ohio,NonmetropolitanCounties,Marion,0,0,1,0,1,0.0,0.0,1.0,0.0,0.0,1.0,
+Tennessee,MetropolitanCounties,Marion,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+South Carolina,NonmetropolitanCounties,Marlboro,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New Jersey,Cities,MarlboroTownship,2,0,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,40190.0
+Massachusetts,Cities,Marlborough,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,39531.0
+Kansas,NonmetropolitanCounties,Marshall,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Kentucky,NonmetropolitanCounties,Marshall,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michigan,Cities,Marshall,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7050.0
+Minnesota,Cities,Marshall,1,0,0,1,0,0.0,0.0,1.0,1.0,0.0,0.0,13370.0
+West Virginia,Cities,Martinsburg,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,17589.0
+Tennessee,Cities,Mason,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,1611.0
+Washington,NonmetropolitanCounties,Mason,3,0,0,0,0,0.0,0.0,0.0,0.0,3.0,0.0,
+Massachusetts,UniversitiesandColleges,MassachusettsCollegeofLiberalArts,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,1799.0
+South Carolina,Cities,Mauldin,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,24099.0
+Texas,Cities,McAllen,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,136169.0
+West Virginia,NonmetropolitanCounties,McDowell,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Texas,Cities,McKinney,1,0,1,2,0,0.0,0.0,0.0,1.0,1.0,2.0,146869.0
+Illinois,MetropolitanCounties,McLean,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Tennessee,Cities,McMinnville,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,13595.0
+Kansas,Cities,McPherson,1,0,1,0,1,0.0,0.0,0.0,1.0,2.0,0.0,13245.0
+Kentucky,MetropolitanCounties,Meade,1,0,0,0,1,0.0,0.0,2.0,0.0,0.0,0.0,
+Massachusetts,Cities,Medford,5,3,0,1,1,0.0,0.0,2.0,4.0,4.0,0.0,57428.0
+New Jersey,Cities,MedfordLakes,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,4196.0
+New Jersey,Cities,MedfordTownship,4,2,1,0,0,0.0,0.0,2.0,1.0,1.0,3.0,23285.0
+Ohio,Cities,Medina,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,26492.0
+Ohio,MetropolitanCounties,Medina,1,0,0,0,0,0.0,0.0,0.0,0.0,,1.0,
+Ohio,NonmetropolitanCounties,Meigs,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Florida,Cities,Melbourne,1,1,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,77277.0
+Tennessee,Cities,Memphis,9,0,12,1,1,0.0,1.0,6.0,5.0,9.0,4.0,657691.0
+New Jersey,Cities,Mendham,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,5029.0
+Minnesota,Cities,MendotaHeights,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,11158.0
+Ohio,Cities,Mentor-on-the-Lake,1,0,0,1,0,0.0,0.0,0.0,0.0,2.0,0.0,7434.0
+Texas,Cities,Mercedes,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,16480.0
+Washington,Cities,MercerIsland,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,23969.0
+Connecticut,Cities,Meriden,2,0,1,0,0,0.0,0.0,1.0,1.0,,1.0,60558.0
+Michigan,Cities,MeridianTownship,4,0,0,0,0,0.0,0.0,0.0,1.0,2.0,1.0,40609.0
+Wisconsin,Cities,Merrill,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,9427.0
+Arizona,Cities,Mesa,1,1,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,456155.0
+Colorado,MetropolitanCounties,Mesa,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,
+DC,OtherAgencies,MetroTransitPolice,0,0,1,1,0,0.0,0.0,0.0,0.0,2.0,0.0,
+Maine,Cities,Mexico,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2633.0
+Ohio,Cities,"MiamiTownship,MontgomeryCounty",2,0,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,29128.0
+Michigan,UniversitiesandColleges,MichiganStateUniversity,2,0,2,0,0,1.0,0.0,1.0,0.0,2.0,2.0,48783.0
+Massachusetts,Cities,Middleboro,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,23547.0
+New Jersey,Cities,Middlesex,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,13787.0
+Connecticut,Cities,Middletown,5,0,1,1,0,0.0,0.0,0.0,3.0,1.0,3.0,47221.0
+New York,Cities,Middletown,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,27809.0
+New Jersey,Cities,MiddletownTownship,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,66246.0
+Michigan,Cities,Midland,0,0,2,0,0,0.0,0.0,1.0,1.0,0.0,0.0,42072.0
+Michigan,Cities,Milan,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5875.0
+Tennessee,Cities,Milan,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7789.0
+Connecticut,Cities,Milford,4,1,0,0,0,0.0,0.0,,2.0,4.0,,53041.0
+Delaware,Cities,Milford,1,0,1,0,0,0.0,0.0,0.0,2.0,0.0,0.0,9872.0
+Michigan,Cities,Milford,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,16170.0
+Washington,Cities,MillCreek,0,0,0,0,0,1.0,0.0,0.0,0.0,1.0,0.0,18806.0
+Minnesota,MetropolitanCounties,MilleLacs,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Tennessee,Cities,Millersville,2,0,1,0,0,0.0,0.0,0.0,0.0,3.0,0.0,6596.0
+Tennessee,Cities,Millington,2,0,0,4,0,0.0,0.0,0.0,2.0,0.0,4.0,10500.0
+Iowa,MetropolitanCounties,Mills,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+California,Cities,Milpitas,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,69522.0
+Delaware,Cities,Milton,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2687.0
+Massachusetts,Cities,Milton,1,2,0,0,0,0.0,0.0,0.0,0.0,0.0,3.0,27269.0
+Washington,Cities,Milton,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,7076.0
+Wisconsin,Cities,Milwaukee,5,1,3,0,0,0.0,0.0,1.0,3.0,4.0,1.0,600805.0
+Texas,Cities,MineralWells,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,16717.0
+Minnesota,Cities,Minneapolis,20,4,11,3,1,0.0,0.0,6.0,13.0,11.0,9.0,396206.0
+North Dakota,Cities,Minot,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,44635.0
+North Carolina,Cities,MintHill,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,24350.0
+Florida,Cities,Miramar,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,130926.0
+Indiana,Cities,Mishawaka,0,0,2,0,0,0.0,0.0,,1.0,1.0,,47967.0
+Michigan,NonmetropolitanCounties,Missaukee,1,0,0,1,0,0.0,0.0,0.0,1.0,1.0,0.0,
+Montana,Cities,Missoula,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,68877.0
+Montana,MetropolitanCounties,Missoula,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+South Dakota,Cities,Mitchell,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,15555.0
+Utah,Cities,Moab,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,5096.0
+California,Cities,Modesto,0,1,1,1,0,0.0,0.0,2.0,0.0,1.0,0.0,204252.0
+Illinois,Cities,Mokena,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,19130.0
+Illinois,Cities,Moline,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,43172.0
+Michigan,Cities,Monroe,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,20474.0
+Michigan,MetropolitanCounties,Monroe,4,1,1,0,0,0.0,0.0,1.0,3.0,2.0,0.0,
+New York,MetropolitanCounties,Monroe,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New Jersey,Cities,"MonroeTownship,MiddlesexCounty",8,1,1,1,0,0.0,0.0,1.0,0.0,2.0,8.0,41356.0
+New York,Cities,MonroeVillage,0,2,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,8544.0
+Massachusetts,Cities,Monson,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,8716.0
+Montana,UniversitiesandColleges,MontanaStateUniversity,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,14269.0
+California,Cities,Montclair,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,37785.0
+New Jersey,Cities,Montclair,4,2,0,0,0,0.0,0.0,2.0,2.0,1.0,1.0,37962.0
+California,Cities,Monterey,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,29338.0
+Tennessee,Cities,Monterey,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,2829.0
+Colorado,NonmetropolitanCounties,Montezuma,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Ohio,Cities,Montgomery,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,10305.0
+Ohio,MetropolitanCounties,Montgomery,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Maryland,MetropolitanCounties,MontgomeryCountyPoliceDepartment,6,4,2,1,0,0.0,0.0,3.0,5.0,2.0,3.0,
+Kentucky,OtherAgencies,MontgomeryCountySchoolDistrict,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,
+New Jersey,Cities,MontgomeryTownship,1,3,0,0,0,0.0,0.0,1.0,1.0,0.0,2.0,22467.0
+Idaho,Cities,Montpelier,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2520.0
+Ohio,Cities,Montpelier,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,4050.0
+Colorado,Cities,Monument,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5800.0
+New Jersey,Cities,MoorestownTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,20706.0
+Minnesota,Cities,Moorhead,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,39322.0
+Ohio,Cities,Moraine,0,0,1,1,0,0.0,0.0,1.0,0.0,0.0,1.0,6317.0
+Kentucky,Cities,Morehead,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,6864.0
+Kentucky,UniversitiesandColleges,MoreheadStateUniversity,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,11169.0
+California,Cities,MorenoValley,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,201284.0
+California,Cities,MorganHill,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,39907.0
+North Carolina,Cities,Morganton,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,16852.0
+West Virginia,Cities,Morgantown,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,31406.0
+New Jersey,Cities,MorrisTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,22640.0
+Vermont,Cities,Morristown,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5369.0
+Illinois,Cities,Morton,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,16462.0
+North Dakota,MetropolitanCounties,Morton,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,
+West Virginia,Cities,Moundsville,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,9130.0
+Tennessee,Cities,MountCarmel,0,0,0,0,1,0.0,0.0,0.0,1.0,0.0,0.0,5422.0
+New Jersey,Cities,MountLaurelTownship,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,41839.0
+Michigan,Cities,MountMorrisTownship,2,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,20990.0
+New Jersey,Cities,MountOliveTownship,0,0,0,2,0,0.0,0.0,0.0,1.0,0.0,1.0,28611.0
+Michigan,Cities,MountPleasant,3,0,1,0,1,0.0,0.0,1.0,2.0,2.0,0.0,26238.0
+New York,Cities,MountVernon,2,0,0,1,0,0.0,0.0,1.0,1.0,0.0,1.0,68071.0
+Ohio,Cities,MountVernon,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,16748.0
+Washington,Cities,MountVernon,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,32450.0
+Kentucky,Cities,MountWashington,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,9377.0
+North Dakota,NonmetropolitanCounties,Mountrail,1,0,0,1,3,0.0,0.0,0.0,0.0,1.0,4.0,
+Kansas,Cities,Mulvane,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,6307.0
+Tennessee,Cities,Munford,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,6036.0
+Tennessee,Cities,Murfreesboro,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,115587.0
+Kentucky,Cities,Murray,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,18048.0
+Utah,Cities,Murray,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,48767.0
+California,Cities,Murrieta3,3,1,1,0,0,0.0,0.0,2.0,2.0,1.0,0.0,107768.0
+Michigan,Cities,Muskegon,3,0,0,0,0,0.0,0.0,2.0,0.0,0.0,1.0,36658.0
+Michigan,Cities,MuskegonHeights,6,0,0,0,0,0.0,0.0,0.0,3.0,3.0,0.0,10768.0
+Oklahoma,Cities,Muskogee,1,1,1,0,0,0.0,0.0,1.0,1.0,1.0,0.0,38884.0
+Idaho,Cities,Nampa,3,0,0,1,0,0.0,0.0,2.0,1.0,1.0,0.0,84634.0
+Washington,Cities,Napavine,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1766.0
+Ohio,Cities,Napoleon,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8663.0
+Tennessee,Cities,Nashville,4,0,1,1,0,0.0,0.0,3.0,1.0,1.0,1.0,635673.0
+New York,MetropolitanCounties,Nassau,10,28,2,3,0,0.0,0.0,9.0,16.0,9.0,9.0,
+California,Cities,NationalCity,2,0,1,0,0,0.0,0.0,1.0,0.0,1.0,1.0,59637.0
+Massachusetts,Cities,Needham,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,29544.0
+Kentucky,NonmetropolitanCounties,Nelson,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Ohio,Cities,Nelsonville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5334.0
+New Jersey,Cities,NeptuneTownship,10,0,3,1,0,0.0,0.0,0.0,8.0,2.0,4.0,27856.0
+Massachusetts,Cities,NewBedford,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,95156.0
+North Carolina,Cities,NewBern,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,30514.0
+Connecticut,Cities,NewBritain,0,0,1,0,0,0.0,0.0,1.0,,,,73134.0
+New Jersey,Cities,NewBrunswick,3,1,1,0,0,0.0,0.0,3.0,1.0,1.0,0.0,56542.0
+Delaware,Cities,NewCastle,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5388.0
+Delaware,MetropolitanCounties,NewCastleCountyPoliceDepartment,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+North Carolina,MetropolitanCounties,NewHanover,1,0,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Connecticut,Cities,NewHaven,5,0,4,1,0,0.0,0.0,3.0,2.0,4.0,1.0,131071.0
+Connecticut,Cities,NewLondon,1,0,2,0,0,0.0,0.0,3.0,0.0,0.0,0.0,27738.0
+Connecticut,Cities,NewMilford,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,27743.0
+Louisiana,Cities,NewOrleans,1,1,5,1,0,0.0,0.0,2.0,3.0,3.0,0.0,377022.0
+New Jersey,Cities,NewProvidence,1,2,0,0,0,0.0,0.0,1.0,2.0,0.0,0.0,12463.0
+New York,Cities,NewRochelle,1,2,0,0,0,0.0,0.0,1.0,1.0,1.0,0.0,78800.0
+New York,Cities,NewYork,44,152,99,17,1,0.0,1.0,56.0,84.0,81.0,93.0,8396126.0
+New York,OtherAgencies,NewYorkCityMetropolitanTransportationAuthority,2,15,0,0,0,0.0,0.0,4.0,5.0,4.0,4.0,
+California,Cities,Newark,2,0,0,1,0,0.0,0.0,1.0,1.0,0.0,1.0,43950.0
+New Jersey,Cities,Newark,2,0,1,0,0,0.0,0.0,0.0,2.0,0.0,1.0,278246.0
+Michigan,Cities,Newaygo,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1961.0
+Oregon,Cities,Newberg-Dundee,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,25647.0
+New York,Cities,Newburgh,0,0,1,1,0,0.0,0.0,0.0,1.0,0.0,1.0,28571.0
+New Hampshire,Cities,Newbury,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2110.0
+Massachusetts,Cities,Newburyport,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,17773.0
+Connecticut,Cities,Newington,1,2,0,0,0,0.0,0.0,,,1.0,2.0,30612.0
+Kentucky,Cities,Newport,5,0,0,0,0,0.0,0.0,0.0,1.0,1.0,3.0,15425.0
+Oregon,Cities,Newport,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,10029.0
+Rhode Island,Cities,Newport,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,23874.0
+California,Cities,NewportBeach,0,2,1,0,0,0.0,0.0,0.0,0.0,2.0,1.0,87639.0
+Virginia,Cities,NewportNews,1,1,2,0,0,0.0,0.0,0.0,1.0,3.0,0.0,181074.0
+New York,Cities,NiagaraFalls,2,0,0,1,0,0.0,0.0,0.0,2.0,0.0,1.0,49574.0
+Ohio,Cities,Niles,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,18950.0
+Virginia,Cities,Norfolk,3,3,1,0,0,0.0,0.0,0.0,5.0,1.0,1.0,247303.0
+Illinois,Cities,Normal,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,54241.0
+Oklahoma,Cities,Norman,3,1,0,0,0,0.0,0.0,2.0,0.0,1.0,1.0,116970.0
+Washington,Cities,NormandyPark,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,6556.0
+Ohio,Cities,NorthBaltimore,1,0,0,0,0,0.0,0.0,,1.0,0.0,0.0,3492.0
+Connecticut,Cities,NorthBranford,1,0,0,1,0,0.0,0.0,2.0,0.0,0.0,0.0,14369.0
+New Jersey,Cities,NorthBrunswickTownship,1,0,1,2,0,0.0,0.0,1.0,2.0,0.0,1.0,41425.0
+Ohio,Cities,NorthCanton,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,17380.0
+North Carolina,UniversitiesandColleges,NorthCarolinaSchooloftheArts,2,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,880.0
+Ohio,Cities,NorthCollegeHill,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,9340.0
+Nevada,Cities,NorthLasVegas,0,0,1,1,0,0.0,0.0,,1.0,1.0,,225632.0
+Arkansas,Cities,NorthLittleRock,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,65398.0
+Florida,Cities,NorthMiami,2,1,3,0,0,0.0,0.0,3.0,1.0,0.0,2.0,61120.0
+Florida,Cities,NorthMiamiBeach,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,43417.0
+Florida,Cities,NorthPort,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,58699.0
+Utah,Cities,NorthSaltLake,0,0,0,0,1,0.0,0.0,1.0,0.0,0.0,0.0,16815.0
+New York,Cities,NorthSyracuseVillage,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,6964.0
+Massachusetts,UniversitiesandColleges,NortheasternUniversity,0,1,1,0,0,1.0,0.0,0.0,0.0,0.0,3.0,27694.0
+Arizona,UniversitiesandColleges,NorthernArizonaUniversity,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,25991.0
+Pennsylvania,Cities,NorthernYorkRegional,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,67657.0
+Michigan,Cities,NorthfieldTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,8387.0
+Michigan,Cities,NorthvilleTownship,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,28734.0
+Illinois,UniversitiesandColleges,"NorthwesternUniversity,Evanston",3,0,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,21215.0
+Massachusetts,Cities,Norton,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,19414.0
+Michigan,Cities,NortonShores,1,0,1,0,0,0.0,0.0,0.0,0.0,2.0,0.0,23834.0
+California,Cities,Norwalk,4,1,0,0,0,0.0,0.0,0.0,4.0,0.0,1.0,106518.0
+Connecticut,Cities,Norwalk,1,0,1,1,0,0.0,0.0,0.0,0.0,3.0,0.0,87590.0
+Ohio,Cities,Norwalk,0,0,1,0,1,0.0,0.0,1.0,1.0,0.0,0.0,16906.0
+Connecticut,Cities,Norwich,1,0,0,0,0,0.0,0.0,,,1.0,,40485.0
+Ohio,Cities,Norwood,1,0,0,2,0,0.0,0.0,0.0,1.0,1.0,1.0,19052.0
+Michigan,Cities,Novi,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,57469.0
+Texas,MetropolitanCounties,Nueces,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New Jersey,Cities,NutleyTownship,2,1,0,0,0,0.0,0.0,0.0,1.0,2.0,0.0,28660.0
+Wisconsin,Cities,OakCreek,0,1,0,1,0,0.0,0.0,2.0,0.0,0.0,0.0,35046.0
+Kentucky,Cities,OakGrove,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7638.0
+Washington,Cities,OakHarbor,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,22288.0
+West Virginia,Cities,OakHill,14,0,0,0,0,0.0,0.0,0.0,6.0,8.0,0.0,7709.0
+California,Cities,Oakland,4,1,4,2,0,0.0,0.0,2.0,4.0,3.0,2.0,403887.0
+Michigan,MetropolitanCounties,Oakland,7,2,5,3,0,0.0,0.0,5.0,4.0,5.0,3.0,
+New Jersey,Cities,Oakland,1,2,2,0,0,0.0,0.0,1.0,2.0,1.0,1.0,12927.0
+Michigan,UniversitiesandColleges,OaklandUniversity3,0,3,0,1,1,0.0,0.0,1.0,0.0,3.0,1.0,19740.0
+New Jersey,Cities,Oceanport,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5833.0
+California,Cities,Oceanside,5,1,1,1,0,0.0,0.0,2.0,4.0,2.0,0.0,172525.0
+Michigan,NonmetropolitanCounties,Ogemaw,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+Kentucky,NonmetropolitanCounties,Ohio,1,0,0,0,1,0.0,0.0,1.0,1.0,0.0,0.0,
+Ohio,UniversitiesandColleges,"OhioStateUniversity,Columbus",2,0,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,56387.0
+Oklahoma,Cities,OklahomaCity,7,2,2,1,0,0.0,0.0,3.0,4.0,3.0,2.0,605034.0
+New Jersey,Cities,OldBridgeTownship,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,66528.0
+Maine,Cities,OldOrchardBeach,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,8681.0
+Connecticut,Cities,OldSaybrook,3,0,0,0,0,0.0,0.0,0.0,1.0,0.0,2.0,10239.0
+Tennessee,Cities,OliverSprings,1,1,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,3250.0
+Washington,Cities,Olympia,0,0,0,1,0,0.0,0.0,0.0,,1.0,0.0,48046.0
+Nebraska,Cities,Omaha,4,2,2,1,0,0.0,0.0,2.0,3.0,3.0,1.0,425076.0
+Washington,Cities,Omak,0,0,1,1,1,0.0,0.0,2.0,1.0,0.0,0.0,4801.0
+New York,MetropolitanCounties,Oneida,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Wisconsin,NonmetropolitanCounties,Oneida,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+California,Cities,Ontario,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,168144.0
+Michigan,Cities,OntwaTownship-Edwardsburg,1,0,0,0,0,0.0,0.0,,0.0,1.0,0.0,6585.0
+California,Cities,Orange,1,1,1,0,0,0.0,0.0,0.0,1.0,2.0,0.0,140304.0
+California,MetropolitanCounties,Orange,1,0,0,1,0,0.0,0.0,1.0,0.0,0.0,1.0,
+Florida,MetropolitanCounties,Orange,6,0,4,0,0,0.0,0.0,6.0,2.0,0.0,2.0,
+Virginia,NonmetropolitanCounties,Orange,2,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,
+South Carolina,Cities,Orangeburg,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,13826.0
+Florida,Cities,Orlando,1,0,1,0,0,0.0,0.0,2.0,0.0,0.0,0.0,253238.0
+California,Cities,Oroville,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,15581.0
+Washington,Cities,Orting,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6913.0
+Florida,MetropolitanCounties,Osceola,0,0,0,2,0,0.0,0.0,1.0,0.0,1.0,0.0,
+Michigan,NonmetropolitanCounties,Otsego,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,MetropolitanCounties,Ottawa,4,0,0,0,0,0.0,0.0,1.0,2.0,0.0,1.0,
+Ohio,Cities,OttawaHills,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,4481.0
+Oklahoma,Cities,Owasso,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,31973.0
+New York,Cities,OwegoVillage,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,3818.0
+Kentucky,Cities,Owensboro,2,0,1,1,0,0.0,0.0,1.0,2.0,1.0,0.0,58304.0
+Michigan,Cities,Owosso,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,14745.0
+North Carolina,Cities,Oxford,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,8607.0
+California,Cities,Oxnard,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,202594.0
+Washington,Cities,Pacific,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,6911.0
+California,Cities,PacificGrove,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,15518.0
+California,Cities,Pacifica,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,38494.0
+Kentucky,Cities,Paducah,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,25064.0
+Florida,Cities,PalmBay,0,1,0,1,0,0.0,0.0,0.0,0.0,0.0,2.0,104391.0
+Florida,MetropolitanCounties,PalmBeach,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+California,Cities,PalmSprings,3,1,4,0,0,0.0,0.0,4.0,1.0,2.0,1.0,46282.0
+California,Cities,Palmdale,4,1,3,0,0,0.0,0.0,3.0,1.0,3.0,1.0,156522.0
+New Jersey,Cities,Palmyra,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7412.0
+California,Cities,PaloAlto,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,66964.0
+Florida,Cities,PanamaCity,2,0,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,36358.0
+California,Cities,Paramount,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,54868.0
+New Jersey,Cities,Paramus,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,26628.0
+Kentucky,Cities,Paris,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,9752.0
+Tennessee,Cities,Paris,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,10168.0
+Colorado,MetropolitanCounties,Park,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Montana,NonmetropolitanCounties,Park,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Utah,OtherAgencies,ParksandRecreation,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ohio,Cities,Parma,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,80303.0
+New Jersey,Cities,Parsippany-TroyHillsTownship,0,2,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,53851.0
+Kansas,Cities,Parsons,2,0,0,0,0,0.0,0.0,0.0,2.0,0.0,0.0,10278.0
+California,Cities,Pasadena,1,1,0,1,0,0.0,0.0,0.0,0.0,1.0,2.0,139003.0
+Texas,Cities,Pasadena,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,153195.0
+Florida,MetropolitanCounties,Pasco,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Washington,Cities,Pasco,0,0,0,0,1,0.0,0.0,0.0,0.0,1.0,0.0,67099.0
+New Jersey,Cities,Passaic,2,2,0,1,0,0.0,0.0,0.0,1.0,2.0,2.0,70445.0
+New Jersey,Cities,Paulsboro,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6034.0
+Idaho,Cities,Payette,2,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,7442.0
+Massachusetts,Cities,Peabody,0,0,0,2,0,0.0,0.0,0.0,0.0,2.0,0.0,52178.0
+Illinois,Cities,Pekin,2,0,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,34085.0
+New Hampshire,Cities,Pelham,1,2,0,0,0,0.0,0.0,2.0,1.0,0.0,0.0,13034.0
+New Jersey,Cities,PembertonTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,27949.0
+Florida,Cities,PembrokePines,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,162064.0
+Washington,MetropolitanCounties,PendOreille,2,0,1,0,0,0.0,0.0,1.0,0.0,2.0,0.0,
+New Jersey,Cities,PennsaukenTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,35788.0
+Pennsylvania,UniversitiesandColleges,PennsylvaniaStateUniversity:Altoona,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,3863.0
+Pennsylvania,UniversitiesandColleges,PennsylvaniaStateUniversity:UniversityPark,4,3,1,0,0,0.0,0.0,3.0,1.0,2.0,2.0,45783.0
+Florida,Cities,Pensacola,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,52454.0
+Illinois,Cities,Peoria,3,0,2,0,0,0.0,0.0,2.0,1.0,1.0,1.0,115953.0
+Illinois,MetropolitanCounties,Peoria,2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,
+New Jersey,Cities,PequannockTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,15580.0
+Kentucky,NonmetropolitanCounties,Perry,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Pennsylvania,Cities,Philadelphia,14,1,0,1,0,0.0,0.0,3.0,11.0,1.0,1.0,1553153.0
+New Jersey,Cities,Phillipsburg,0,1,0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,14619.0
+Arizona,Cities,Phoenix,40,12,14,14,1,0.0,0.0,25.0,21.0,35.0,,1502139.0
+Ohio,MetropolitanCounties,Pickaway,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+California,Cities,PicoRivera,0,0,1,1,0,0.0,0.0,1.0,1.0,0.0,0.0,63710.0
+Washington,MetropolitanCounties,Pierce,2,1,1,2,0,0.0,0.0,0.0,1.0,4.0,1.0,
+Tennessee,Cities,PigeonForge,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,6023.0
+Arizona,MetropolitanCounties,Pima,1,1,1,0,0,0.0,0.0,0.0,0.0,0.0,3.0,
+Arkansas,Cities,PineBluff,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,46399.0
+New Jersey,Cities,PineHill,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,10704.0
+California,Cities,Pinole,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,18848.0
+New Jersey,Cities,PiscatawayTownship,0,2,2,0,0,0.0,0.0,3.0,1.0,0.0,0.0,58259.0
+Colorado,NonmetropolitanCounties,Pitkin,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+New Jersey,Cities,Pitman,6,1,0,0,0,0.0,0.0,1.0,0.0,5.0,1.0,8930.0
+North Carolina,MetropolitanCounties,Pitt,4,0,0,1,0,0.0,0.0,1.0,1.0,2.0,1.0,
+Kansas,Cities,Pittsburg,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,20395.0
+Pennsylvania,Cities,Pittsburgh,12,0,3,0,0,0.0,0.0,1.0,3.0,8.0,3.0,307632.0
+Massachusetts,Cities,Pittsfield,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,43992.0
+Michigan,Cities,PittsfieldTownship,1,0,2,0,0,0.0,0.0,1.0,2.0,0.0,0.0,36091.0
+California,Cities,Placentia,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,52002.0
+New Jersey,Cities,PlainsboroTownship,0,0,0,0,1,0.0,0.0,0.0,1.0,0.0,0.0,23256.0
+Connecticut,Cities,Plainville,0,0,1,0,0,0.0,0.0,,,,1.0,17850.0
+Massachusetts,Cities,Plainville,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8512.0
+New Hampshire,Cities,Plaistow,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7620.0
+Texas,Cities,Plano,1,0,0,1,0,0.0,0.0,1.0,0.0,0.0,1.0,275795.0
+Utah,Cities,PleasantGrove,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,34796.0
+Connecticut,Cities,Plymouth,0,1,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,12043.0
+Massachusetts,Cities,Plymouth,9,1,0,0,0,0.0,0.0,0.0,0.0,6.0,4.0,57893.0
+Minnesota,Cities,Plymouth,3,2,2,0,0,0.0,0.0,0.0,3.0,4.0,0.0,73684.0
+New Jersey,Cities,PointPleasant,4,1,0,1,0,0.0,0.0,1.0,4.0,1.0,0.0,18458.0
+Florida,Cities,PompanoBeach,1,1,0,1,0,0.0,0.0,0.0,0.0,0.0,3.0,103971.0
+Arkansas,NonmetropolitanCounties,Pope,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Virginia,Cities,Poquoson,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,12108.0
+Michigan,Cities,PortHuron,0,0,2,0,0,0.0,0.0,1.0,0.0,1.0,0.0,29542.0
+California,OtherAgencies,PortofSanDiegoHarbor,2,0,0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,
+Washington,OtherAgencies,PortofSeattle,1,1,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,
+Florida,Cities,PortSt.Lucie,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,169877.0
+Washington,Cities,PortTownsend,1,1,1,0,0,0.0,0.0,1.0,0.0,1.0,1.0,9112.0
+Michigan,Cities,Portage,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,47387.0
+Maine,Cities,Portland,1,1,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,66256.0
+Oregon,Cities,Portland,1,1,3,1,0,0.0,0.0,1.0,3.0,2.0,,609136.0
+Ohio,Cities,Portsmouth,0,0,2,0,0,0.0,0.0,1.0,1.0,0.0,0.0,20322.0
+Virginia,Cities,Portsmouth,3,0,0,0,0,0.0,0.0,0.0,0.0,2.0,1.0,97018.0
+New York,Cities,Poughkeepsie,0,0,0,2,1,0.0,1.0,2.0,1.0,0.0,1.0,30778.0
+New York,Cities,PoughkeepsieTown,2,1,1,0,0,0.0,0.0,0.0,2.0,1.0,2.0,43866.0
+Virginia,MetropolitanCounties,Powhatan,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Kansas,Cities,Pratt,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6900.0
+Alabama,Cities,Prattville,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,35154.0
+Arizona,Cities,Prescott,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,40752.0
+Utah,Cities,Price,1,0,0,1,0,0.0,0.0,2.0,0.0,0.0,0.0,8589.0
+Virginia,MetropolitanCounties,PrinceGeorgeCountyPoliceDepartment,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Maryland,MetropolitanCounties,PrinceGeorge'sCountyPoliceDepartment,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Kansas,Cities,Protection,0,0,1,0,0,0.0,0.0,,,1.0,0.0,521.0
+Rhode Island,Cities,Providence,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,178887.0
+Massachusetts,Cities,Provincetown,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2983.0
+Utah,Cities,Provo,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,116937.0
+Colorado,Cities,Pueblo,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,108062.0
+Colorado,MetropolitanCounties,Pueblo,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Arkansas,MetropolitanCounties,Pulaski,1,0,1,1,0,0.0,0.0,1.0,0.0,1.0,1.0,
+Washington,Cities,Pullman,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,31895.0
+Indiana,UniversitiesandColleges,PurdueUniversity,2,0,1,0,0,0.0,0.0,1.0,1.0,1.0,,40393.0
+New York,MetropolitanCounties,Putnam,0,0,0,0,0,0.0,1.0,0.0,0.0,1.0,0.0,
+Illinois,Cities,Quincy,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,40841.0
+Massachusetts,Cities,Quincy,6,3,0,4,0,0.0,0.0,4.0,2.0,4.0,3.0,93490.0
+Kentucky,Cities,Radcliff,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,23177.0
+Virginia,Cities,Radford,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,16810.0
+North Carolina,Cities,Raleigh,3,0,0,1,0,0.0,0.0,0.0,2.0,2.0,0.0,428993.0
+New York,Cities,RamapoTown,0,1,0,0,0,0.0,0.0,0.0,0.0,,1.0,87204.0
+California,Cities,RanchoCordova,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,67634.0
+California,Cities,RanchoPalosVerdes,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,42542.0
+Massachusetts,Cities,Randolph,0,0,2,0,0,0.0,0.0,0.0,2.0,0.0,0.0,33583.0
+New Jersey,Cities,RandolphTownship,1,0,2,0,0,0.0,0.0,0.0,0.0,2.0,1.0,25969.0
+South Dakota,Cities,RapidCity,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,70406.0
+New Jersey,Cities,Raritan,0,0,2,0,0,0.0,0.0,0.0,0.0,0.0,2.0,7352.0
+Kentucky,Cities,Ravenna,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,595.0
+Missouri,Cities,Raytown,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,29501.0
+Massachusetts,Cities,Reading,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,25398.0
+Pennsylvania,Cities,Reading,0,0,3,0,0,0.0,0.0,1.0,1.0,1.0,0.0,88107.0
+New Jersey,Cities,ReadingtonTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,15910.0
+California,Cities,RedBluff,2,0,1,0,0,0.0,0.0,0.0,1.0,0.0,2.0,14170.0
+California,Cities,Redding,5,0,1,2,0,0.0,0.0,2.0,2.0,3.0,1.0,91035.0
+California,Cities,Redlands,0,2,1,0,0,0.0,0.0,0.0,1.0,0.0,2.0,70282.0
+Washington,Cities,Redmond,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,57263.0
+California,Cities,RedondoBeach,2,0,1,2,0,0.0,0.0,1.0,2.0,1.0,1.0,67993.0
+California,Cities,RedwoodCity,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,79707.0
+Nevada,Cities,Reno,2,1,1,0,0,,0.0,,1.0,3.0,,232561.0
+Washington,Cities,Renton,10,2,0,1,0,0.0,0.0,2.0,4.0,2.0,5.0,96657.0
+Massachusetts,Cities,Revere,0,2,0,1,0,0.0,0.0,0.0,0.0,1.0,2.0,53777.0
+Ohio,Cities,Reynoldsburg,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,36472.0
+Minnesota,NonmetropolitanCounties,Rice,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ohio,MetropolitanCounties,Richland,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Pennsylvania,Cities,"RichlandTownship,CambriaCounty",1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,12581.0
+California,Cities,Richmond,1,0,2,0,0,0.0,0.0,0.0,0.0,2.0,1.0,107341.0
+Kentucky,Cities,Richmond,1,1,1,0,0,0.0,0.0,1.0,1.0,0.0,1.0,32333.0
+Texas,Cities,Richmond,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,11841.0
+Virginia,Cities,Richmond,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,212830.0
+Ohio,Cities,Richwood,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,2240.0
+California,Cities,Ridgecrest,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,28537.0
+Colorado,Cities,Rifle,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,9306.0
+Kansas,MetropolitanCounties,RileyCountyPoliceDepartment,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Wisconsin,Cities,RiverFalls,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,15227.0
+California,Cities,Riverside,11,1,1,2,0,0.0,1.0,7.0,4.0,0.0,5.0,316423.0
+California,MetropolitanCounties,Riverside,3,0,0,0,0,0.0,0.0,0.0,1.0,1.0,1.0,
+Ohio,Cities,Riverside,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,25115.0
+Virginia,Cities,Roanoke,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,97927.0
+New Jersey,Cities,RobbinsvilleTownship,2,1,0,0,0,0.0,0.0,1.0,1.0,1.0,0.0,14046.0
+Tennessee,MetropolitanCounties,Robertson,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Minnesota,Cities,Rochester,2,0,0,2,0,0.0,0.0,0.0,2.0,2.0,0.0,109675.0
+New York,Cities,Rochester,3,1,0,0,0,0.0,0.0,0.0,2.0,2.0,0.0,210562.0
+Illinois,Cities,Rockford,2,1,1,0,0,0.0,0.0,0.0,2.0,2.0,0.0,150209.0
+Virginia,MetropolitanCounties,Rockingham,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New York,Cities,RockvilleCentreVillage,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,24129.0
+North Carolina,Cities,RockyMount,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,57021.0
+Oklahoma,NonmetropolitanCounties,RogerMills,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Arkansas,Cities,Rogers,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,59787.0
+California,Cities,RohnertPark,0,0,0,3,0,0.0,0.0,2.0,0.0,0.0,1.0,41326.0
+California,Cities,RollingHillsEstates,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,8229.0
+Michigan,Cities,Romeo,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,3597.0
+Utah,Cities,Roosevelt,1,0,1,1,0,0.0,0.0,0.0,0.0,3.0,0.0,6404.0
+Illinois,Cities,Roscoe,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,10700.0
+California,Cities,Roseville,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,126236.0
+Michigan,Cities,Roseville,5,0,1,0,0,0.0,0.0,1.0,3.0,2.0,0.0,47327.0
+Minnesota,Cities,Roseville,2,0,1,0,0,0.0,0.0,0.0,2.0,1.0,0.0,34991.0
+Ohio,NonmetropolitanCounties,Ross,2,1,0,0,0,0.0,0.0,0.0,2.0,0.0,1.0,
+Tennessee,Cities,Rossville,0,0,2,0,0,0.0,0.0,0.0,2.0,0.0,0.0,679.0
+North Carolina,Cities,Roxboro,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,8310.0
+Utah,Cities,Roy,1,1,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,37810.0
+Michigan,Cities,RoyalOak,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,58804.0
+New Jersey,Cities,Runnemede,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,8459.0
+Kentucky,Cities,Russellville,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,6949.0
+North Carolina,NonmetropolitanCounties,Rutherford,1,2,1,0,0,0.0,0.0,0.0,2.0,1.0,1.0,
+California,Cities,Sacramento,6,2,6,2,0,0.0,0.0,2.0,5.0,6.0,3.0,478182.0
+California,MetropolitanCounties,Sacramento,9,1,3,0,0,0.0,0.0,2.0,3.0,3.0,5.0,
+Maine,MetropolitanCounties,Sagadahoc,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michigan,Cities,Saginaw,4,0,2,0,0,0.0,0.0,1.0,1.0,2.0,2.0,50580.0
+Michigan,Cities,SaginawTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,40636.0
+Michigan,UniversitiesandColleges,SaginawValleyStateUniversity,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,10552.0
+New York,Cities,Salamanca,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5691.0
+Massachusetts,Cities,Salem,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,42468.0
+New Jersey,Cities,Salem,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5175.0
+Oregon,Cities,Salem,7,1,4,2,0,0.0,0.0,9.0,3.0,2.0,0.0,158234.0
+California,Cities,Salinas,0,0,1,1,0,0.0,0.0,0.0,0.0,0.0,2.0,155742.0
+Michigan,Cities,Saline,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,9028.0
+North Carolina,Cities,Salisbury,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,33626.0
+South Carolina,Cities,Salley,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,412.0
+Utah,Cities,SaltLakeCity,3,1,1,0,0,0.0,0.0,0.0,3.0,0.0,2.0,190246.0
+Utah,MetropolitanCounties,SaltLakeCountyUnifiedPoliceDepartment,0,1,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,
+Texas,Cities,SanAngelo,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,96661.0
+Texas,Cities,SanAntonio,3,0,7,1,0,0.0,0.0,3.0,3.0,3.0,2.0,1399725.0
+California,Cities,SanBernardino,2,0,0,1,0,0.0,0.0,0.0,0.0,2.0,1.0,214322.0
+California,MetropolitanCounties,SanBernardino,2,0,1,2,0,0.0,1.0,1.0,0.0,3.0,2.0,
+California,Cities,SanDiego,18,12,12,1,0,0.0,0.0,7.0,10.0,17.0,9.0,1349306.0
+California,MetropolitanCounties,SanDiego,6,2,3,2,0,0.0,0.0,3.0,2.0,3.0,5.0,
+California,Cities,SanDimas,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,33854.0
+California,Cities,SanFrancisco,7,3,13,1,0,0.0,0.0,4.0,8.0,8.0,4.0,833863.0
+California,OtherAgencies,SanFranciscoBayAreaRapidTransit:AlamedaCounty,4,0,0,0,0,0.0,0.0,0.0,2.0,2.0,0.0,
+California,OtherAgencies,SanFranciscoBayAreaRapidTransit:ContraCostaCounty,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+California,OtherAgencies,SanFranciscoBayAreaRapidTransit:SanFranciscoCounty,1,0,1,0,0,0.0,0.0,2.0,0.0,0.0,0.0,
+California,Cities,SanJose,6,2,6,1,0,0.0,0.0,7.0,1.0,2.0,5.0,992143.0
+Washington,NonmetropolitanCounties,SanJuan,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+California,Cities,SanLeandro,3,0,1,1,0,0.0,0.0,2.0,1.0,2.0,0.0,87490.0
+California,Cities,SanLuisObispo,1,0,1,0,0,0.0,0.0,0.0,0.0,2.0,0.0,46095.0
+California,MetropolitanCounties,SanLuisObispo,3,0,1,0,0,0.0,0.0,0.0,0.0,1.0,3.0,
+California,Cities,SanMateo,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,100440.0
+California,MetropolitanCounties,SanMateo,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Florida,Cities,Sanford,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,54972.0
+Illinois,MetropolitanCounties,Sangamon,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+California,Cities,SantaAna,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,332848.0
+California,Cities,SantaBarbara,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,90006.0
+California,MetropolitanCounties,SantaBarbara,2,0,2,0,0,0.0,0.0,1.0,2.0,1.0,0.0,
+California,Cities,SantaClara,0,0,2,0,0,0.0,0.0,0.0,0.0,2.0,0.0,120150.0
+California,MetropolitanCounties,SantaClara,1,0,1,0,0,0.0,0.0,0.0,2.0,0.0,0.0,
+California,Cities,SantaClarita,2,0,3,0,0,0.0,0.0,2.0,1.0,1.0,1.0,204951.0
+California,Cities,SantaCruz,1,0,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,62517.0
+California,MetropolitanCounties,SantaCruz,1,0,1,1,0,0.0,0.0,2.0,0.0,1.0,0.0,
+California,Cities,SantaMaria,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,102051.0
+California,Cities,SantaRosa,0,1,2,0,0,0.0,0.0,2.0,1.0,0.0,0.0,171564.0
+Florida,MetropolitanCounties,SantaRosa,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+California,Cities,Santee,1,0,1,1,0,0.0,0.0,2.0,0.0,1.0,0.0,55924.0
+Oklahoma,Cities,Sapulpa,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,20857.0
+California,Cities,Saratoga,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,30897.0
+New York,Cities,SaratogaSprings,1,2,0,0,0,0.0,0.0,0.0,0.0,1.0,2.0,27081.0
+Massachusetts,Cities,Saugus,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,27628.0
+Michigan,Cities,SaultSte.Marie,1,1,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,14203.0
+Minnesota,Cities,Savage,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,28285.0
+Oklahoma,Cities,Sayre,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,4556.0
+Maine,Cities,Scarborough,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,19252.0
+New York,Cities,ScarsdaleVillage,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,17564.0
+New York,Cities,SchodackTown,0,0,0,0,0,1.0,0.0,0.0,0.0,1.0,0.0,11573.0
+Iowa,MetropolitanCounties,Scott,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Arizona,Cities,Scottsdale,0,1,0,1,0,0.0,0.0,0.0,0.0,0.0,2.0,225523.0
+Delaware,Cities,Seaford,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,7241.0
+Maine,Cities,Searsport,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2618.0
+Washington,Cities,Seattle,50,14,14,6,3,2.0,0.0,19.0,23.0,29.0,18.0,642814.0
+Arkansas,MetropolitanCounties,Sebastian,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New Jersey,Cities,Secaucus,0,2,2,0,0,0.0,0.0,0.0,1.0,0.0,3.0,19119.0
+Washington,Cities,SedroWoolley,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,10652.0
+Minnesota,Cities,Shakopee,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,39214.0
+Massachusetts,Cities,Sharon,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,17935.0
+California,MetropolitanCounties,Shasta,4,0,2,0,0,0.0,0.0,3.0,1.0,2.0,0.0,
+Kansas,MetropolitanCounties,Shawnee,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Kentucky,MetropolitanCounties,Shelby,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ohio,NonmetropolitanCounties,Shelby,2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,
+Tennessee,MetropolitanCounties,Shelby,5,1,3,36,1,0.0,0.0,2.0,7.0,20.0,17.0,
+Michigan,Cities,ShelbyTownship,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,75347.0
+Kentucky,Cities,Shelbyville,4,0,0,0,0,0.0,0.0,0.0,1.0,2.0,1.0,14743.0
+Tennessee,Cities,Shelbyville,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,20669.0
+Washington,Cities,Shelton,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,9780.0
+Kentucky,Cities,Shepherdsville,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,11534.0
+Arkansas,Cities,Sherwood,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,29900.0
+Kentucky,Cities,Shively,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,15511.0
+Washington,Cities,Shoreline,2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,54762.0
+Minnesota,Cities,Shoreview,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,,25810.0
+Idaho,NonmetropolitanCounties,Shoshone,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Massachusetts,Cities,Shrewsbury,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,36315.0
+New Jersey,Cities,Shrewsbury,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,3941.0
+Nebraska,Cities,Sidney,0,0,1,0,0,0.0,0.0,1.0,0.0,,,6831.0
+North Carolina,Cities,SilerCity,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,8243.0
+Montana,NonmetropolitanCounties,SilverBow,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+California,Cities,SimiValley,1,1,0,1,0,0.0,0.0,1.0,0.0,2.0,0.0,126215.0
+South Dakota,Cities,SiouxFalls,3,1,0,0,0,0.0,0.0,1.0,0.0,2.0,1.0,161754.0
+Washington,MetropolitanCounties,Skagit,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Washington,MetropolitanCounties,Skamania,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Oklahoma,Cities,Skiatook,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,1.0,7751.0
+Illinois,Cities,Skokie,2,0,0,1,0,0.0,0.0,0.0,2.0,0.0,1.0,65155.0
+Maine,Cities,Skowhegan,1,0,2,0,0,0.0,0.0,1.0,0.0,1.0,1.0,8537.0
+New York,Cities,SleepyHollowVillage,0,2,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,9996.0
+Delaware,Cities,Smyrna,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,10900.0
+Washington,MetropolitanCounties,Snohomish,1,0,1,0,0,0.0,0.0,0.0,2.0,0.0,,
+Colorado,Cities,SnowmassVillage,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2851.0
+Ohio,Cities,Solon,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,23105.0
+Massachusetts,Cities,Somerville,0,0,1,1,0,0.0,0.0,0.0,0.0,0.0,2.0,77768.0
+New Jersey,Cities,Somerville,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,12174.0
+California,MetropolitanCounties,Sonoma,1,0,1,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+California,Cities,Sonora,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,4774.0
+Indiana,Cities,SouthBend,2,0,1,0,0,0.0,0.0,1.0,,2.0,,100711.0
+New Jersey,Cities,SouthBrunswickTownship,0,4,1,0,0,0.0,0.0,0.0,1.0,2.0,2.0,44575.0
+Vermont,Cities,SouthBurlington,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,18549.0
+Ohio,Cities,SouthEuclid,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,21929.0
+California,Cities,SouthGate,0,1,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,95591.0
+Massachusetts,Cities,SouthHadley,1,0,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,17794.0
+Utah,Cities,SouthJordan,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,57593.0
+California,Cities,SouthLakeTahoe,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,21243.0
+New Jersey,Cities,SouthOrange,1,0,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,16297.0
+New Jersey,Cities,SouthPlainfield,1,0,0,1,0,0.0,0.0,1.0,1.0,0.0,0.0,23789.0
+Maine,Cities,SouthPortland,1,2,2,0,0,0.0,0.0,1.0,2.0,2.0,0.0,25126.0
+Utah,Cities,SouthSaltLake,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,24595.0
+Connecticut,Cities,SouthWindsor,0,1,0,0,0,0.0,0.0,,1.0,,,25871.0
+Connecticut,UniversitiesandColleges,SouthernConnecticutStateUniversity,2,0,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,11117.0
+Texas,UniversitiesandColleges,SouthernMethodistUniversity,2,1,0,0,0,0.0,0.0,1.0,1.0,1.0,0.0,10893.0
+Michigan,Cities,Southfield,2,1,0,0,0,0.0,0.0,0.0,2.0,0.0,1.0,72755.0
+Connecticut,Cities,Southington,1,0,0,6,0,0.0,0.0,3.0,2.0,2.0,0.0,43542.0
+Tennessee,UniversitiesandColleges,SouthwestTennesseeCommunityCollege,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,12220.0
+Oklahoma,UniversitiesandColleges,SouthwesternOklahomaStateUniversity,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,5106.0
+Michigan,Cities,Sparta,0,2,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,4224.0
+Wisconsin,Cities,Sparta,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,9623.0
+Massachusetts,Cities,Spencer,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,11801.0
+Washington,Cities,Spokane,1,0,1,0,0,0.0,0.0,1.0,,0.0,1.0,209524.0
+Washington,MetropolitanCounties,Spokane,1,0,1,3,1,0.0,0.0,0.0,2.0,1.0,3.0,
+Washington,Cities,SpokaneValley,1,0,0,1,0,0.0,0.0,0.0,1.0,1.0,0.0,90835.0
+New Jersey,Cities,Spotswood,0,2,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,8459.0
+Virginia,MetropolitanCounties,Spotsylvania,2,1,1,0,0,0.0,0.0,3.0,0.0,1.0,0.0,
+Tennessee,Cities,SpringHill,4,0,0,0,0,0.0,0.0,2.0,2.0,0.0,0.0,31807.0
+Minnesota,Cities,SpringLakePark,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,6458.0
+New York,Cities,SpringValleyVillage,1,1,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,32288.0
+Illinois,Cities,Springfield,5,0,0,0,0,0.0,0.0,0.0,2.0,2.0,1.0,117351.0
+Massachusetts,Cities,Springfield,1,0,2,1,0,0.0,0.0,3.0,0.0,0.0,1.0,153586.0
+Missouri,Cities,Springfield,1,1,1,0,0,0.0,0.0,0.0,3.0,0.0,0.0,163062.0
+Ohio,Cities,Springfield,3,0,1,0,0,0.0,0.0,0.0,1.0,3.0,0.0,60012.0
+Oregon,Cities,Springfield,2,0,0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,60024.0
+Vermont,Cities,Springfield,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,9259.0
+Ohio,Cities,"SpringfieldTownship,HamiltonCounty",1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,36330.0
+Texas,Cities,Springtown,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2698.0
+Vermont,Cities,St.Albans,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,6888.0
+Minnesota,Cities,St.Anthony,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,8445.0
+Illinois,Cities,St.Charles,0,0,1,1,0,0.0,0.0,1.0,1.0,0.0,0.0,33433.0
+Missouri,Cities,St.Charles,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,66628.0
+Missouri,MetropolitanCounties,St.Charles,2,0,2,0,0,0.0,0.0,0.0,2.0,2.0,0.0,
+Minnesota,Cities,St.Cloud,6,0,0,2,0,0.0,0.0,0.0,3.0,3.0,2.0,65977.0
+South Carolina,Cities,St.George,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,2139.0
+Utah,Cities,St.George,2,1,0,0,0,0.0,0.0,2.0,1.0,0.0,0.0,76427.0
+Michigan,Cities,St.Joseph,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8293.0
+Missouri,Cities,St.Joseph,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,77347.0
+New York,NonmetropolitanCounties,St.Lawrence,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Missouri,Cities,St.Louis,4,1,7,0,0,0.0,0.0,3.0,2.0,2.0,5.0,318563.0
+Missouri,MetropolitanCounties,St.LouisCountyPoliceDepartment,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Minnesota,Cities,St.LouisPark,3,4,0,0,0,0.0,0.0,1.0,4.0,1.0,1.0,46723.0
+Maryland,UniversitiesandColleges,St.Mary'sCollege,1,0,1,0,0,0.0,0.0,0.0,2.0,0.0,0.0,1933.0
+Kentucky,Cities,St.Matthews,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,17768.0
+Minnesota,Cities,St.Paul,24,4,2,0,0,0.0,0.0,0.0,18.0,11.0,1.0,294690.0
+Florida,Cities,St.Petersburg,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,247084.0
+Connecticut,Cities,Stamford,1,2,2,2,1,0.0,0.0,2.0,2.0,1.0,3.0,125876.0
+California,Cities,Stanton,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,39128.0
+Ohio,MetropolitanCounties,Stark,1,0,0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,
+Pennsylvania,Cities,StateCollege,0,2,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,56612.0
+Maryland,OtherAgencies,StateFireMarshal,0,2,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+New York,OtherAgencies,"StatePark,LongIslandRegional",0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,,
+Virginia,StatePoliceAgencies,"StatePolice,BuchananCounty",0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Maine,StatePoliceAgencies,"StatePolice,SomersetCounty",1,0,0,0,0,0.0,0.0,0.0,0.0,,1.0,
+New York,StatePoliceAgencies,StatePolice:BroomeCounty,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Kentucky,StatePoliceAgencies,StatePolice:Campbellsburg,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michigan,StatePoliceAgencies,StatePolice:CassCounty,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Pennsylvania,StatePoliceAgencies,StatePolice:ChesterCounty,0,1,0,0,0,0.0,0.0,1.0,,0.0,0.0,
+Kentucky,StatePoliceAgencies,StatePolice:DryRidge,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New York,StatePoliceAgencies,StatePolice:DutchessCounty,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Kentucky,StatePoliceAgencies,StatePolice:Frankfort,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New York,StatePoliceAgencies,StatePolice:FranklinCounty,1,1,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,
+Pennsylvania,StatePoliceAgencies,StatePolice:FranklinCounty,1,0,0,0,0,0.0,0.0,1.0,,0.0,0.0,
+Maryland,StatePoliceAgencies,StatePolice:FrederickCounty,0,2,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Michigan,StatePoliceAgencies,StatePolice:GeneseeCounty,1,0,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Kentucky,StatePoliceAgencies,StatePolice:Henderson,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Indiana,StatePoliceAgencies,StatePolice:HenryCounty,1,1,0,0,0,0.0,0.0,2.0,,,,
+New York,StatePoliceAgencies,StatePolice:HerkimerCounty,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michigan,OtherAgencies,"StatePolice:Huron-ClintonMetropolitanAuthority,LowerHuronMetropark",2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,
+Pennsylvania,StatePoliceAgencies,StatePolice:IndianaCounty,1,0,0,0,0,0.0,0.0,0.0,1.0,,0.0,
+Michigan,StatePoliceAgencies,StatePolice:JacksonCounty,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New York,StatePoliceAgencies,StatePolice:JeffersonCounty,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Delaware,StatePoliceAgencies,StatePolice:KentCounty,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Indiana,StatePoliceAgencies,StatePolice:KnoxCounty,1,0,0,0,0,0.0,0.0,,,,1.0,
+Indiana,StatePoliceAgencies,StatePolice:LakeCounty,1,0,0,0,0,0.0,0.0,1.0,,,,
+Pennsylvania,StatePoliceAgencies,StatePolice:LancasterCounty,1,1,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,
+New York,StatePoliceAgencies,StatePolice:MadisonCounty,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Kentucky,StatePoliceAgencies,StatePolice:Madisonville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Indiana,StatePoliceAgencies,StatePolice:MonroeCounty,0,0,0,1,0,0.0,0.0,,1.0,,,
+Kentucky,StatePoliceAgencies,StatePolice:Morehead,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New York,StatePoliceAgencies,StatePolice:NassauCounty,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Delaware,StatePoliceAgencies,StatePolice:NewCastleCounty,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michigan,StatePoliceAgencies,StatePolice:OaklandCounty,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New Jersey,StatePoliceAgencies,StatePolice:OceanCounty,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New York,StatePoliceAgencies,StatePolice:OrangeCounty,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New York,StatePoliceAgencies,StatePolice:OtsegoCounty,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Indiana,StatePoliceAgencies,StatePolice:PerryCounty,1,0,0,0,0,0.0,0.0,1.0,,,,
+Pennsylvania,StatePoliceAgencies,StatePolice:PikeCounty,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Kentucky,StatePoliceAgencies,StatePolice:Pikeville,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+New York,StatePoliceAgencies,StatePolice:PutnamCounty,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Maryland,StatePoliceAgencies,StatePolice:QueenAnne'sCounty,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Kentucky,StatePoliceAgencies,StatePolice:Richmond,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New Jersey,StatePoliceAgencies,StatePolice:SalemCounty,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New York,StatePoliceAgencies,StatePolice:SaratogaCounty,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Pennsylvania,StatePoliceAgencies,StatePolice:SkippackCounty,2,0,1,0,0,0.0,0.0,0.0,3.0,0.0,0.0,
+New York,StatePoliceAgencies,StatePolice:SteubenCounty,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,1.0,
+Delaware,StatePoliceAgencies,StatePolice:SussexCounty,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New York,StatePoliceAgencies,StatePolice:UlsterCounty,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michigan,StatePoliceAgencies,StatePolice:VanBurenCounty,0,0,2,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+New York,StatePoliceAgencies,StatePolice:WestchesterCounty,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+New York,UniversitiesandColleges,StateUniversityofNewYorkAgriculturalandTechnicalCollege:Alfred,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,3528.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkAgriculturalandTechnicalCollege:Cobleskill,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2492.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkAgriculturalandTechnicalCollege:Morrisville,0,0,0,0,0,1.0,0.0,0.0,1.0,0.0,0.0,3095.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:Buffalo,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,11781.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:Cortland,2,1,0,0,0,0.0,0.0,1.0,1.0,0.0,1.0,7098.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:Fredonia,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,5521.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:NewPaltz,2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,7655.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:Oneonta,0,2,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,6041.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:Oswego,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,7921.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:Potsdam,1,0,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,4224.0
+New York,UniversitiesandColleges,StateUniversityofNewYorkCollege:Purchase,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,4240.0
+New York,UniversitiesandColleges,StateUniversityofNewYork:Binghamton,0,2,0,0,0,0.0,1.0,0.0,0.0,3.0,1.0,15308.0
+New York,UniversitiesandColleges,StateUniversityofNewYork:StonyBrook,0,2,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,23946.0
+Colorado,Cities,SteamboatSprings,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,12008.0
+Illinois,Cities,Sterling,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,15183.0
+Washington,MetropolitanCounties,Stevens,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+California,Cities,Stockton,1,0,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,299796.0
+Massachusetts,Cities,Stoughton,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,28186.0
+Connecticut,Cities,Stratford,1,1,0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,52285.0
+Ohio,Cities,Struthers,1,1,0,0,1,0.0,0.0,0.0,2.0,0.0,1.0,10522.0
+Connecticut,Cities,Suffield,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,15908.0
+Virginia,Cities,Suffolk,3,0,0,0,0,0.0,0.0,0.0,1.0,2.0,0.0,85475.0
+New York,MetropolitanCounties,SuffolkCountyPoliceDepartment,26,50,7,4,0,0.0,0.0,11.0,33.0,22.0,21.0,
+Tennessee,MetropolitanCounties,Sullivan,2,1,0,2,0,0.0,0.0,1.0,2.0,2.0,0.0,
+South Carolina,Cities,Summerville,2,0,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,45210.0
+Utah,NonmetropolitanCounties,Summit,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Michigan,Cities,SumpterTownship,1,0,1,0,0,0.0,0.0,0.0,0.0,0.0,2.0,9310.0
+South Carolina,MetropolitanCounties,Sumter,1,0,1,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+Washington,Cities,Sunnyside,1,0,0,1,0,0.0,0.0,1.0,0.0,0.0,1.0,16099.0
+California,Cities,Sunnyvale,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,148160.0
+Florida,Cities,Sunrise,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,90274.0
+North Carolina,NonmetropolitanCounties,Surry,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Oregon,Cities,Sutherlin,1,0,0,0,0,0.0,0.0,0.0,1.0,,0.0,7747.0
+North Carolina,NonmetropolitanCounties,Swain,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Massachusetts,Cities,Swampscott,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,13995.0
+Washington,Cities,Tacoma,3,0,2,0,0,0.0,0.0,2.0,0.0,3.0,0.0,203226.0
+California,Cities,Taft,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,8839.0
+Oklahoma,Cities,Talihina,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1112.0
+Florida,Cities,Tallahassee,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,188714.0
+Massachusetts,Cities,Taunton,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,56264.0
+Michigan,Cities,Taylor,1,0,2,0,0,0.0,0.0,1.0,2.0,0.0,0.0,61836.0
+California,Cities,Tehachapi,1,0,0,1,0,0.0,0.0,1.0,0.0,1.0,0.0,13607.0
+Colorado,Cities,Telluride,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2313.0
+California,Cities,Temecula,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,106680.0
+Arizona,Cities,Tempe,1,0,2,0,0,0.0,0.0,2.0,0.0,1.0,0.0,168501.0
+Texas,Cities,Temple,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,69937.0
+California,Cities,TempleCity,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,36269.0
+Texas,Cities,Terrell,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,16233.0
+South Carolina,UniversitiesandColleges,TheCitadel,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,3499.0
+North Carolina,Cities,Thomasville,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,26866.0
+Colorado,Cities,Thornton,0,1,2,0,0,0.0,0.0,0.0,0.0,1.0,2.0,125775.0
+California,Cities,ThousandOaks,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,128884.0
+Michigan,Cities,ThreeRivers,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7712.0
+Washington,MetropolitanCounties,Thurston,3,0,1,0,0,0.0,0.0,0.0,1.0,1.0,2.0,
+Oregon,Cities,Tigard,8,0,0,1,0,0.0,0.0,2.0,3.0,4.0,,50311.0
+Tennessee,MetropolitanCounties,Tipton,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,
+Oregon,Cities,Toledo,2,0,1,0,1,0.0,0.0,1.0,2.0,1.0,0.0,3461.0
+New Jersey,Cities,TomsRiverTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,92332.0
+Oklahoma,Cities,Tonkawa,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,3150.0
+Oklahoma,OtherAgencies,TonkawaTribal,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Utah,Cities,Tooele,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,32241.0
+Utah,MetropolitanCounties,Tooele,4,0,0,0,1,0.0,0.0,1.0,3.0,0.0,1.0,
+California,Cities,Torrance,1,0,0,1,0,0.0,0.0,0.0,0.0,2.0,0.0,147534.0
+Connecticut,Cities,Torrington,5,0,0,0,0,0.0,0.0,1.0,3.0,1.0,0.0,35634.0
+New Jersey,Cities,Totowa,1,1,1,0,0,0.0,0.0,0.0,1.0,2.0,0.0,10985.0
+Maryland,UniversitiesandColleges,TowsonUniversity,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,21960.0
+California,Cities,Tracy,4,0,1,1,0,0.0,0.0,2.0,1.0,3.0,0.0,85174.0
+Michigan,Cities,TraverseCity,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,14989.0
+Texas,MetropolitanCounties,Travis,1,0,2,1,0,0.0,0.0,2.0,1.0,0.0,1.0,
+Michigan,Cities,Trenton,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,18483.0
+New Jersey,Cities,Trenton,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,84439.0
+Kentucky,MetropolitanCounties,Trigg,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Ohio,Cities,Trotwood,1,0,1,0,0,0.0,0.0,0.0,2.0,0.0,0.0,24282.0
+Michigan,Cities,Troy,2,1,0,0,0,0.0,0.0,0.0,1.0,0.0,2.0,82608.0
+New York,Cities,Troy,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,49898.0
+Ohio,Cities,Troy,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,25424.0
+Ohio,MetropolitanCounties,Trumbull,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+New York,Cities,TuckahoeVillage,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,6578.0
+Arizona,Cities,Tucson,13,6,6,1,0,0.0,0.0,8.0,8.0,6.0,4.0,525486.0
+Massachusetts,UniversitiesandColleges,"TuftsUniversity,Medford",0,1,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,10837.0
+Washington,Cities,Tukwila,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,19765.0
+Tennessee,Cities,Tullahoma,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,18773.0
+Oklahoma,MetropolitanCounties,Tulsa,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Washington,Cities,Tumwater,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,18343.0
+California,Cities,Turlock,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,70075.0
+Alabama,Cities,Tuscaloosa,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,94126.0
+Michigan,NonmetropolitanCounties,Tuscola,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,
+Idaho,Cities,TwinFalls,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,45378.0
+Ohio,Cities,Twinsburg,0,1,0,1,0,0.0,0.0,0.0,,1.0,1.0,18750.0
+Texas,Cities,Tyler,1,0,3,1,0,0.0,0.0,2.0,1.0,0.0,2.0,100033.0
+Utah,NonmetropolitanCounties,Uintah,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,
+New York,MetropolitanCounties,Ulster,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+Oregon,NonmetropolitanCounties,Umatilla,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+South Carolina,MetropolitanCounties,Union,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New Jersey,Cities,UnionBeach,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,6198.0
+California,Cities,UnionCity,1,0,0,4,0,0.0,0.0,1.0,3.0,1.0,0.0,72480.0
+New Jersey,Cities,UnionCity,0,1,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,68254.0
+Ohio,Cities,"UnionTownship,ClermontCounty",1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,47066.0
+Missouri,Cities,UniversityCity,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,35186.0
+Arizona,UniversitiesandColleges,UniversityofArizona,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,40223.0
+Arkansas,UniversitiesandColleges,"UniversityofArkansas,PineBluff",0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2828.0
+California,UniversitiesandColleges,UniversityofCalifornia:Berkeley,3,2,1,1,0,0.0,0.0,1.0,1.0,4.0,1.0,35893.0
+California,UniversitiesandColleges,UniversityofCalifornia:Davis,1,0,1,1,0,0.0,0.0,0.0,3.0,0.0,0.0,32354.0
+California,UniversitiesandColleges,UniversityofCalifornia:Riverside,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,20947.0
+California,UniversitiesandColleges,UniversityofCalifornia:SanDiego,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,28294.0
+California,UniversitiesandColleges,UniversityofCalifornia:SantaCruz,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,17404.0
+Oklahoma,UniversitiesandColleges,UniversityofCentralOklahoma,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,17211.0
+Colorado,UniversitiesandColleges,"UniversityofColorado,Boulder",0,0,2,0,0,0.0,0.0,0.0,0.0,0.0,2.0,31945.0
+Connecticut,UniversitiesandColleges,"UniversityofConnecticut,Storrs,AveryPoint,andHartford3",3,1,0,1,0,0.0,0.0,2.0,1.0,1.0,1.0,
+Georgia,UniversitiesandColleges,UniversityofGeorgia,2,1,1,0,0,0.0,0.0,1.0,0.0,0.0,3.0,34519.0
+Illinois,UniversitiesandColleges,"UniversityofIllinois,Springfield",1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,5048.0
+Kentucky,UniversitiesandColleges,UniversityofLouisville,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,21239.0
+Massachusetts,UniversitiesandColleges,UniversityofMassachusetts:Amherst,2,3,1,1,0,0.0,0.0,3.0,0.0,2.0,2.0,28236.0
+Massachusetts,UniversitiesandColleges,"UniversityofMassachusetts:HarborCampus,Boston",0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,15874.0
+Michigan,UniversitiesandColleges,"UniversityofMichigan,AnnArbor",0,1,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,43426.0
+Minnesota,UniversitiesandColleges,"UniversityofMinnesota,Morris",1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1896.0
+Missouri,UniversitiesandColleges,"UniversityofMissouri,Columbia",2,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,34704.0
+New Hampshire,UniversitiesandColleges,UniversityofNewHampshire,1,0,1,0,0,,,1.0,0.0,1.0,0.0,15267.0
+Louisiana,UniversitiesandColleges,UniversityofNewOrleans,1,0,0,0,0,0.0,0.0,1.0,0.0,,0.0,10071.0
+North Carolina,UniversitiesandColleges,UniversityofNorthCarolina:Greensboro,1,0,2,0,0,0.0,0.0,0.0,0.0,1.0,2.0,18516.0
+North Carolina,UniversitiesandColleges,UniversityofNorthCarolina:Wilmington,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,13733.0
+Rhode Island,UniversitiesandColleges,UniversityofRhodeIsland,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,16451.0
+Virginia,UniversitiesandColleges,UniversityofRichmond,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,4361.0
+South Carolina,UniversitiesandColleges,"UniversityofSouthCarolina,Upstate",1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,5561.0
+Texas,UniversitiesandColleges,"UniversityofTexas,Austin",1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,52186.0
+Utah,UniversitiesandColleges,UniversityofUtah,3,0,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,32388.0
+Vermont,UniversitiesandColleges,UniversityofVermont,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,13098.0
+Washington,UniversitiesandColleges,UniversityofWashington,3,2,0,0,0,0.0,0.0,0.0,2.0,0.0,3.0,43485.0
+Wisconsin,UniversitiesandColleges,"UniversityofWisconsin,Platteville",0,1,2,0,0,0.0,0.0,3.0,0.0,0.0,0.0,8668.0
+Ohio,Cities,UpperArlington,3,0,0,0,0,0.0,0.0,0.0,0.0,1.0,2.0,34369.0
+Illinois,Cities,Urbana,2,0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,41598.0
+Ohio,Cities,Urbana,1,1,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,11599.0
+Utah,MetropolitanCounties,Utah,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Utah,StatePoliceAgencies,UtahHighwayPatrol,2,0,1,3,0,0.0,0.0,2.0,1.0,2.0,1.0,
+Utah,UniversitiesandColleges,"UtahStateUniversity,Logan",0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,28786.0
+Utah,OtherAgencies,UtahTransitAuthority,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+Michigan,Cities,Utica,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,4765.0
+New York,Cities,Utica,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,61686.0
+California,Cities,Vallejo,1,0,0,1,0,0.0,0.0,0.0,2.0,0.0,0.0,118336.0
+North Dakota,Cities,ValleyCity,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,6580.0
+Michigan,MetropolitanCounties,VanBuren,3,0,1,0,0,0.0,0.0,1.0,1.0,2.0,0.0,
+Michigan,Cities,VanBurenTownship,1,1,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,28282.0
+Washington,Cities,Vancouver,5,0,3,0,0,0.0,0.0,2.0,5.0,0.0,1.0,166535.0
+Ohio,Cities,Vandalia,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,15181.0
+Tennessee,UniversitiesandColleges,VanderbiltUniversity,3,1,1,0,0,0.0,0.0,1.0,1.0,0.0,3.0,12710.0
+Florida,Cities,Venice,0,2,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,21151.0
+California,Cities,Ventura,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,108204.0
+California,MetropolitanCounties,Ventura,1,1,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+South Dakota,Cities,Vermillion,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,10892.0
+California,Cities,Vernon,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,115.0
+New Jersey,Cities,Verona,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,13429.0
+Texas,Cities,Victoria,0,2,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,64979.0
+California,Cities,Victorville,6,0,1,0,0,0.0,0.0,2.0,1.0,2.0,2.0,121699.0
+Texas,Cities,Vidor,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,10984.0
+Georgia,Cities,VillaRica,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,14307.0
+Kentucky,Cities,VineGrove,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,5298.0
+New Jersey,Cities,Vineland,0,1,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,60863.0
+Virginia,Cities,VirginiaBeach,3,2,0,0,0,0.0,0.0,1.0,1.0,1.0,2.0,450687.0
+Virginia,UniversitiesandColleges,VirginiaCommonwealthUniversity,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,31445.0
+Virginia,UniversitiesandColleges,VirginiaMilitaryInstitute,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,1664.0
+California,Cities,Visalia,1,0,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,127824.0
+California,Cities,Vista,1,0,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,96712.0
+Florida,MetropolitanCounties,Volusia,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,
+New Jersey,Cities,VoorheesTownship,2,1,0,0,0,0.0,0.0,0.0,2.0,1.0,0.0,29284.0
+Minnesota,Cities,Wadena,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,4092.0
+North Carolina,Cities,Wadesboro,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5673.0
+Oklahoma,MetropolitanCounties,Wagoner,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Minnesota,Cities,WaitePark,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,6683.0
+North Carolina,UniversitiesandColleges,WakeForestUniversity,0,0,2,0,0,0.0,0.0,1.0,0.0,1.0,0.0,7432.0
+Maine,NonmetropolitanCounties,Waldo,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Connecticut,Cities,Wallingford,2,0,0,2,0,0.0,0.0,1.0,1.0,2.0,0.0,45185.0
+California,Cities,WalnutCreek,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,66149.0
+North Dakota,NonmetropolitanCounties,Walsh,0,0,0,0,1,0.0,0.0,0.0,0.0,1.0,0.0,
+Massachusetts,Cities,Waltham,0,1,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,62446.0
+Ohio,Cities,Wapakoneta,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,9812.0
+Michigan,Cities,Warren,7,1,0,0,0,1.0,0.0,0.0,0.0,4.0,5.0,134167.0
+Ohio,Cities,Warren,3,0,0,0,1,0.0,0.0,0.0,3.0,1.0,0.0,40474.0
+Ohio,Cities,WarrenTownship,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,5450.0
+Tennessee,Cities,Wartburg,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,912.0
+Rhode Island,Cities,Warwick,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,81789.0
+DC,Cities,Washington,18,6,31,3,0,0.0,12.0,19.0,21.0,20.0,10.0,646449.0
+New Jersey,Cities,Washington,3,1,0,0,0,0.0,0.0,1.0,0.0,2.0,1.0,6408.0
+Ohio,NonmetropolitanCounties,Washington,0,0,0,0,1,0.0,0.0,1.0,0.0,0.0,0.0,
+Utah,MetropolitanCounties,Washington,1,0,1,0,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Washington,UniversitiesandColleges,"WashingtonStateUniversity,Pullman",0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,27679.0
+New Jersey,Cities,"WashingtonTownship,GloucesterCounty",2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,48110.0
+New Jersey,Cities,"WashingtonTownship,WarrenCounty",0,0,1,0,0,0.0,0.0,0.0,0.0,,1.0,6493.0
+Washington,Cities,Washougal,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,14733.0
+Michigan,MetropolitanCounties,Washtenaw,3,3,0,0,0,0.0,0.0,0.0,2.0,2.0,2.0,
+New Jersey,Cities,Watchung,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,5844.0
+Connecticut,Cities,Waterbury,6,0,0,0,0,0.0,0.0,3.0,1.0,2.0,0.0,109763.0
+Michigan,Cities,WaterfordTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,72949.0
+Iowa,Cities,Waterloo,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,68255.0
+Massachusetts,Cities,Watertown,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,33254.0
+Wisconsin,Cities,Wausau,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,39176.0
+Michigan,Cities,Wayland,0,0,0,0,1,0.0,0.0,0.0,1.0,0.0,,4074.0
+Michigan,Cities,Wayne,4,0,0,0,0,0.0,0.0,1.0,1.0,1.0,1.0,17232.0
+Ohio,NonmetropolitanCounties,Wayne,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+New Jersey,Cities,WeehawkenTownship,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,12937.0
+Colorado,MetropolitanCounties,Weld,1,0,1,0,0,0.0,0.0,1.0,0.0,1.0,0.0,
+West Virginia,Cities,Wellsburg,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,2760.0
+Washington,Cities,Wenatchee,1,0,0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,32677.0
+Michigan,Cities,WestBloomfieldTownship,5,1,1,2,0,0.0,0.0,5.0,2.0,2.0,0.0,65840.0
+Massachusetts,Cities,WestBoylston,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7821.0
+New Jersey,Cities,WestCaldwellTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,10878.0
+California,Cities,WestCovina,6,0,0,0,0,0.0,0.0,3.0,1.0,1.0,1.0,107867.0
+New Jersey,Cities,WestDeptfordTownship,3,1,0,1,0,0.0,0.0,3.0,1.0,1.0,0.0,21497.0
+North Dakota,Cities,WestFargo,6,1,0,1,0,0.0,0.0,1.0,2.0,2.0,3.0,28018.0
+Connecticut,Cities,WestHaven,1,0,0,0,0,0.0,0.0,,,1.0,,55349.0
+California,Cities,WestHollywood,1,0,2,2,0,0.0,0.0,1.0,1.0,3.0,0.0,34902.0
+New Jersey,Cities,WestLongBranch,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,8660.0
+New Jersey,Cities,WestMilfordTownship,3,0,0,0,0,0.0,0.0,2.0,0.0,1.0,0.0,26095.0
+Virginia,Cities,WestPoint,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,3311.0
+New York,Cities,WestSenecaTown,2,0,0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,44821.0
+Massachusetts,Cities,WestSpringfield,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,28647.0
+Minnesota,Cities,WestSt.Paul,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,19761.0
+Utah,Cities,WestValley,3,0,0,1,0,0.0,0.0,1.0,3.0,0.0,0.0,133373.0
+Rhode Island,Cities,WestWarwick,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,28817.0
+Massachusetts,Cities,Westborough,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,18563.0
+New York,MetropolitanCounties,WestchesterPublicSafety,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Michigan,UniversitiesandColleges,WesternMichiganUniversity,0,0,1,0,0,0.0,0.0,0.0,0.0,1.0,0.0,24598.0
+Washington,UniversitiesandColleges,WesternWashingtonUniversity,0,0,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,14833.0
+California,Cities,WestlakeVillage,0,2,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,8440.0
+Michigan,Cities,Westland,1,0,0,1,0,0.0,0.0,1.0,0.0,0.0,1.0,82554.0
+California,Cities,Westminster,1,1,1,1,1,0.0,0.0,1.0,1.0,1.0,2.0,91885.0
+Colorado,Cities,Westminster,0,0,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,110093.0
+Virginia,NonmetropolitanCounties,Westmoreland,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Florida,Cities,Weston,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,68369.0
+Michigan,Cities,WhiteLakeTownship,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,30585.0
+Texas,Cities,Whitehouse,1,0,0,0,0,0.0,0.0,1.0,,0.0,0.0,7919.0
+Kansas,Cities,Wichita,10,0,3,1,0,0.0,0.0,4.0,4.0,4.0,2.0,386486.0
+Illinois,MetropolitanCounties,Will,2,0,0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,
+Kentucky,Cities,Williamsburg,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,5258.0
+Massachusetts,Cities,Williamstown,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7682.0
+Connecticut,Cities,Willimantic,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,17839.0
+North Dakota,Cities,Williston,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,19949.0
+North Carolina,Cities,Wilmington,3,0,1,0,0,0.0,0.0,3.0,0.0,0.0,1.0,110985.0
+North Carolina,Cities,Wilson,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,49737.0
+Connecticut,Cities,Winchester,2,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,11019.0
+Kentucky,Cities,Winchester,5,0,0,0,0,0.0,0.0,1.0,2.0,1.0,1.0,18478.0
+New Hampshire,Cities,Windham,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,14092.0
+Connecticut,Cities,WindsorLocks,0,0,0,0,1,0.0,0.0,0.0,1.0,0.0,0.0,12560.0
+South Carolina,Cities,Winnsboro,0,6,0,0,0,0.0,0.0,2.0,3.0,0.0,1.0,3428.0
+Maine,Cities,Wiscasset,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,3673.0
+Connecticut,Cities,Wolcott,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,16735.0
+New Jersey,Cities,WoodbridgeTownship,1,2,0,0,0,0.0,0.0,0.0,2.0,0.0,1.0,100568.0
+Minnesota,Cities,Woodbury,1,0,0,0,0,0.0,0.0,1.0,,,,65259.0
+New Jersey,Cities,Woodbury,4,1,0,0,0,0.0,0.0,0.0,0.0,2.0,3.0,10073.0
+New Jersey,Cities,WoodburyHeights,1,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,3026.0
+Michigan,Cities,Woodhaven,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,12652.0
+Utah,Cities,WoodsCross,2,0,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,10343.0
+Virginia,Cities,Woodstock,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,5193.0
+New Jersey,Cities,WoolwichTownship,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,11167.0
+Ohio,Cities,Wooster,1,1,0,0,0,0.0,0.0,1.0,1.0,0.0,0.0,26468.0
+Massachusetts,Cities,Worcester,1,0,1,0,0,0.0,0.0,0.0,1.0,1.0,0.0,183454.0
+North Carolina,Cities,WrightsvilleBeach,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,2551.0
+Kansas,MetropolitanCounties,Wyandotte,0,0,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,
+Michigan,Cities,Wyoming,1,1,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,73786.0
+Ohio,Cities,Xenia,3,0,0,0,0,0.0,0.0,1.0,0.0,1.0,1.0,26038.0
+Washington,Cities,Yakima,1,0,1,0,0,0.0,0.0,1.0,0.0,0.0,1.0,93589.0
+Washington,MetropolitanCounties,Yakima,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,
+Connecticut,UniversitiesandColleges,YaleUniversity,0,0,1,0,0,0.0,0.0,,,,1.0,11906.0
+Oregon,MetropolitanCounties,Yamhill,0,1,1,0,0,0.0,0.0,0.0,0.0,1.0,1.0,
+New York,Cities,Yonkers,1,3,1,0,0,1.0,1.0,2.0,0.0,3.0,2.0,199134.0
+California,Cities,YorbaLinda,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,67492.0
+South Carolina,MetropolitanCounties,York,1,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,
+Virginia,MetropolitanCounties,York,2,0,0,0,0,0.0,0.0,1.0,0.0,1.0,0.0,
+Ohio,Cities,Youngstown,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,64938.0
+California,MetropolitanCounties,Yuba,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,
+California,Cities,YubaCity,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,65133.0
+California,Cities,YuccaValley,1,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,21214.0
+Arizona,Cities,Yuma,3,4,0,3,0,0.0,0.0,3.0,5.0,0.0,2.0,96014.0
+Arizona,MetropolitanCounties,Yuma,1,0,0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,
+Ohio,Cities,Zanesville,1,1,2,0,0,0.0,0.0,1.0,2.0,0.0,1.0,25378.0

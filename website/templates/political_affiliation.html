@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}Political Affiliation{% endblock %}
+{% block content%}
+<form method="POST">
+        <br />
+        <h3 align="center">USA States Hate Crimes and Political Affiliation</h3>
+        <br />
+        <br />
+        <div>
+        <table class="table">
+                <tr>
+                        {% for header in headings %}
+                        <th>{{ header }}</th>
+                        {% endfor %}
+                </tr>
+                {% for row in data %}
+                <tr>
+                        {% for cell in row %}
+                        <td>{{ cell }}</td>
+                        {% endfor %}
+                </tr>
+                {% endfor %}
+        </table>
+        </div>
+	<br />
+	<div>
+	<hr/>
+  	<img src= {{ plot1 }} alt="Chart" height=auto width=550 >
+	<img src= {{ plot2 }} alt="Chart" height=auto width=550 >
+	</div>
+        <hr/>
+	<p><font size="2"><strong>Political Party: </strong>Democrat or Republican <br />
+	<strong>Total Hate Crimes reported: </strong>sum of hate crimes by political affiliation<br />
+	<strong>Hate Crimes per Capita (by Party): </strong>total hate crimes of party per 100,000 of the party’s population<br />
+	<strong>Hate Crimes per Capita (Total): </strong>total hate crimes of party per 100,000 of the total US population<br />
+	<strong>Avg Hate Crimes per State: </strong>average number of hate crimes reported per state with given political affiliation<br />
+	<strong>Avg Hate Crimes per State Agency: </strong>average number of hate crimes reported per agency in a state with given political affiliation</font></p>
+        <br />
+        <p align="center"> <font size="1">Paul Cummins | Conor Welch | Marina Sánchez</font></p>
+</form>
+{% endblock %}
