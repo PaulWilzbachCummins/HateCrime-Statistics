@@ -18,3 +18,6 @@ To run the application perform the following steps:
 5. Open again your browser and enjoy the application!
 
 Note: You might be asked to install additional packages when trying to access some features from the web application
+
+
+This application was created by Paul Cummins, Marina Sanchez-Millan, and Conor Welch for the final project of the 2022 Databases class of NCF's Master of Science in Data Science program.
